@@ -1,0 +1,1783 @@
+{
+  "anchor_scene": "A picturesque coastal harbor village at golden sunset with a white lighthouse on a rocky cliff, a cozy corner cafe terrace with warm lantern light, a small wooden sailboat in calm water, fluffy clouds in the sky, and a curious cat sitting on a stone wall in the foreground",
+  "total_styles": 120,
+  "categories": [
+    {
+      "id": "fine-art",
+      "num": "01",
+      "ko": "순수미술 · 고전/근대 회화",
+      "en": "Classical & Modern Fine Art"
+    },
+    {
+      "id": "contemporary-pop",
+      "num": "02",
+      "ko": "현대미술 · 추상 · 팝아트",
+      "en": "Contemporary, Abstract & Pop"
+    },
+    {
+      "id": "world-traditional",
+      "num": "03",
+      "ko": "동양화 · 세계 전통 민속화",
+      "en": "East Asian & World Traditional"
+    },
+    {
+      "id": "media-drawing",
+      "num": "04",
+      "ko": "회화 재료 · 드로잉 기법",
+      "en": "Painting & Drawing Media"
+    },
+    {
+      "id": "print-analog",
+      "num": "05",
+      "ko": "판화 · 인쇄 · 아날로그 그래픽",
+      "en": "Printmaking & Analog Graphic"
+    },
+    {
+      "id": "editorial-commercial",
+      "num": "06",
+      "ko": "상업 · 에디토리얼 · 도서 일러스트",
+      "en": "Editorial, Book & Vector"
+    },
+    {
+      "id": "comics-webtoon",
+      "num": "07",
+      "ko": "만화 · 웹툰 · 그래픽노블",
+      "en": "Comics, Manga & Webtoon"
+    },
+    {
+      "id": "anime-studio",
+      "num": "08",
+      "ko": "애니메이션 · 스튜디오 작화",
+      "en": "Anime & Animation Aesthetics"
+    },
+    {
+      "id": "game-concept",
+      "num": "09",
+      "ko": "게임 · 컨셉아트 · 서브컬처",
+      "en": "Game, Pixel & Concept Art"
+    },
+    {
+      "id": "3d-craft",
+      "num": "10",
+      "ko": "3D 렌더링 · 공예 · 디오라마",
+      "en": "3D Render, Tactile Craft & Toy"
+    },
+    {
+      "id": "photo-optical",
+      "num": "11",
+      "ko": "사진 · 필름 · 광학 카메라",
+      "en": "Photography, Film & Optical"
+    }
+  ],
+  "styles": [
+    {
+      "id": "001-renaissance-sfumato",
+      "cat": "fine-art",
+      "ko": "르네상스 스푸마토 유화",
+      "en": "High Renaissance Sfumato Oil",
+      "era": "15~16세기 이탈리아",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "윤곽선을 안개처럼 부드럽게 풀어내는 스푸마토 기법과 고전적 원근법, 깊이 있는 바니시 유화 질감",
+      "prompt_en": "High Renaissance oil painting on wood panel, Leonardo da Vinci sfumato soft edges, classical linear perspective, warm golden varnish glaze, museum fine art masterpiece",
+      "prompt_ko": "르네상스 시대 목판 유화 화풍, 레오나르도 다빈치식 부드러운 스푸마토 음영과 고전 투시 원근법, 깊이 있는 황금빛 유화 질감"
+    },
+    {
+      "id": "002-baroque-tenebrism",
+      "cat": "fine-art",
+      "ko": "바로크 테네브리즘 명암법",
+      "en": "Baroque Dramatic Tenebrism",
+      "era": "17세기 유럽",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "칠흑 같은 어둠 속에서 한 줄기 극적인 빛이 피사체를 비추는 카라바조·렘브란트풍 강렬한 키아로스쿠로",
+      "prompt_en": "Baroque tenebrism oil painting, dramatic Caravaggio and Rembrandt chiaroscuro lighting, deep velvety shadows, rich warm candlelight spotlight, visible canvas texture",
+      "prompt_ko": "바로크 테네브리즘 유화 스타일, 카라바조와 렘브란트풍의 극적인 명암 대비(키아로스쿠로), 깊은 어둠 속 따뜻한 한 줄기 빛"
+    },
+    {
+      "id": "003-rococo-pastel",
+      "cat": "fine-art",
+      "ko": "로코코 우아한 파스텔 유화",
+      "en": "Rococo Ornate Pastel Oil",
+      "era": "18세기 프랑스",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "진주빛 파스텔 핑크·민트·크림 색조와 솜사탕처럼 가볍고 장식적인 프라고나르풍 붓터치",
+      "prompt_en": "18th-century French Rococo oil painting in the style of Fragonard and Boucher, airy pastel rose and powder blue palette, feathery romantic brushwork, gilded ornate atmosphere",
+      "prompt_ko": "18세기 프랑스 로코코 유화 화풍, 파스텔 로즈와 민트·크림 색조, 깃털처럼 가볍고 우아한 붓터치와 장식적 무드"
+    },
+    {
+      "id": "004-romanticism-sublime",
+      "cat": "fine-art",
+      "ko": "낭만주의 숭고 풍경화",
+      "en": "Romanticism Atmospheric Sublime",
+      "era": "19세기 유럽",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "터너(J.M.W. Turner) 특유의 휘몰아치는 황금빛 안개와 대자연의 압도적 대기 원근감을 담은 낭만주의 유화",
+      "prompt_en": "19th-century Romanticism oil landscape painting in the style of J.M.W. Turner, luminous swirling golden mist, dramatic atmospheric sky, poetic sublime light on canvas",
+      "prompt_ko": "19세기 낭만주의 풍경 유화, 윌리엄 터너 스타일의 휘몰아치는 황금빛 대기 안개와 웅장하고 서정적인 빛의 확산"
+    },
+    {
+      "id": "005-impressionism",
+      "cat": "fine-art",
+      "ko": "프랑스 인상주의",
+      "en": "French Impressionism",
+      "era": "1870년대 프랑스",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "모네·르누아르처럼 시시각각 변하는 자연광과 물결의 반사를 짧고 경쾌한 색채 병치 붓터치로 포착",
+      "prompt_en": "French Impressionist oil painting in the style of Claude Monet, broken vibrant short brushstrokes, shimmering sunlight reflections on water, plein-air pastel and violet shadows",
+      "prompt_ko": "클로드 모네풍 프랑스 인상주의 유화, 짧고 생동감 넘치는 붓터치, 물결 위에 부서지는 햇살 반사와 보랏빛 자연 그림자"
+    },
+    {
+      "id": "006-post-impressionism-impasto",
+      "cat": "fine-art",
+      "ko": "후기 인상주의 소용돌이 임파스토",
+      "en": "Post-Impressionist Swirling Impasto",
+      "era": "1880년대 유럽",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "반 고흐 특유의 두껍게 덧바른 물감 마티에르와 밤하늘·대지를 감싸는 역동적 소용돌이 붓질",
+      "prompt_en": "Post-Impressionist thick impasto oil painting in the style of Vincent van Gogh, rhythmic swirling directional brushstrokes, bold cobalt blue and chrome yellow contrast, heavy paint ridges",
+      "prompt_ko": "빈센트 반 고흐풍 후기 인상주의 임파스토 유화, 두껍게 솟아오른 물감 질감과 역동적으로 소용돌이치는 붓터치, 코발트블루와 옐로우 보색 대비"
+    },
+    {
+      "id": "007-pointillism",
+      "cat": "fine-art",
+      "ko": "신인상주의 점묘법",
+      "en": "Neo-Impressionist Pointillism",
+      "era": "1880년대 프랑스",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "조르주 쇠라·시냐크처럼 순수한 원색의 수많은 미세 색점들이 망막에서 혼합되어 빛나는 회화 기법",
+      "prompt_en": "Neo-Impressionist Pointillism painting in the style of Georges Seurat and Paul Signac, composed entirely of thousands of tiny distinct pure color dots, optical color mixing, luminous mosaic stipple",
+      "prompt_ko": "조르주 쇠라풍 신인상주의 점묘화, 물감을 섞지 않고 수만 개의 미세한 순색 점들을 촘촘히 찍어 완성한 광학적 색채 조화"
+    },
+    {
+      "id": "008-art-nouveau",
+      "cat": "fine-art",
+      "ko": "아르누보 장식 포스터화",
+      "en": "Art Nouveau Botanical Poster",
+      "era": "1890~1910년 유럽",
+      "tags": [
+        "2D",
+        "전통회화",
+        "레트로/판화"
+      ],
+      "desc": "알폰스 무하 특유의 유려한 곡선 윤곽선, 식물 덩굴 프레임, 차분한 황금·세이지·코랄 장식 색채",
+      "prompt_en": "Art Nouveau decorative lithograph illustration in the style of Alphonse Mucha, flowing sinuous organic whiplash lines, ornate botanical floral arch border, muted gold and coral flat tints",
+      "prompt_ko": "알폰스 무하풍 아르누보 장식 일러스트, 유려하게 흐르는 유기적 곡선 윤곽선과 꽃·덩굴 아치형 장식 테두리, 우아한 금빛 파스텔 색감"
+    },
+    {
+      "id": "009-art-deco",
+      "cat": "fine-art",
+      "ko": "아르데코 기하학 럭셔리 포스터",
+      "en": "Art Deco Geometric Luxury",
+      "era": "1920~1930년대",
+      "tags": [
+        "2D",
+        "벡터/그래픽",
+        "레트로/판화"
+      ],
+      "desc": "방사형 태양광선 기하학 패턴, 직선적 대칭 구도, 메탈릭 골드와 미드나잇 네이비의 세련된 마천루 미학",
+      "prompt_en": "1920s Art Deco luxury poster illustration in the style of A.M. Cassandre, sleek streamlined geometric symmetry, sunburst gold metallic rays, deep navy and emerald airbrushed gradients",
+      "prompt_ko": "1920년대 아르데코 그래픽 포스터 화풍, 직선적이고 대칭적인 기하학 조형, 황금빛 태양광선 패턴과 짙은 네이비·에메랄드 고급 그라데이션"
+    },
+    {
+      "id": "010-expressionism",
+      "cat": "fine-art",
+      "ko": "독일 표현주의",
+      "en": "German Expressionism",
+      "era": "20세기 초 독일",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "내면의 강렬한 감정을 투영한 날카롭고 왜곡된 형태, 과감한 원색 대비와 거친 붓자국",
+      "prompt_en": "Early 20th-century German Expressionist painting in the style of Ernst Ludwig Kirchner and Wassily Kandinsky, angular distorted forms, raw emotional vivid magenta, acid yellow and prussian blue brushwork",
+      "prompt_ko": "20세기 초 독일 표현주의 회화, 주관적 감정을 극대화한 각지고 왜곡된 형태와 거친 붓질, 강렬한 원색 보색 대비"
+    },
+    {
+      "id": "011-cubism",
+      "cat": "fine-art",
+      "ko": "입체파 (큐비즘)",
+      "en": "Analytical & Synthetic Cubism",
+      "era": "1907~1920년대",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "피카소·브라크처럼 대상을 여러 시점에서 해체해 기하학적 단면들로 한 화면에 재조합한 모더니즘 화풍",
+      "prompt_en": "Cubist oil painting in the style of Pablo Picasso and Georges Braque, fragmented geometric planes viewed from multiple simultaneous perspectives, interlocking ochre, slate blue and terracotta facets",
+      "prompt_ko": "피카소와 브라크풍 입체파(큐비즘) 유화, 대상을 다중 시점에서 기하학적 면으로 잘게 분해하여 평면 위에 입체적으로 재구성한 화풍"
+    },
+    {
+      "id": "012-surrealism",
+      "cat": "fine-art",
+      "ko": "초현실주의 데페이즈망",
+      "en": "Dreamlike Fine-Art Surrealism",
+      "era": "1920~1940년대",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "마그리트·달리처럼 지극히 정교하고 매끈한 사실적 묘사 속에 꿈과 무의식의 기묘한 시적 역설을 결합",
+      "prompt_en": "Classic Surrealist oil painting in the style of Rene Magritte and Salvador Dali, hyper-crisp smooth brushwork, uncanny poetic dreamlike juxtaposition, floating clouds and impossible perspective",
+      "prompt_ko": "르네 마그리트·살바도르 달리풍 초현실주의 유화, 매끈하고 정교한 사실적 붓질 속에 비현실적이고 몽환적인 꿈의 역설을 담은 화풍"
+    },
+    {
+      "id": "013-bauhaus-constructivism",
+      "cat": "contemporary-pop",
+      "ko": "바우하우스 기하학 구성주의",
+      "en": "Bauhaus Geometric Constructivism",
+      "era": "1920년대 독일",
+      "tags": [
+        "2D",
+        "벡터/그래픽",
+        "레트로/판화"
+      ],
+      "desc": "원·삼각형·사각형의 순수 기하 도형과 빨강·파랑·노랑 삼원색 및 미색 지류 질감의 모던 디자인 원형",
+      "prompt_en": "1920s Bauhaus geometric design composition, clean circles triangles and diagonal bars, primary red cobalt blue and mustard yellow on warm archival cream paper texture, minimalist modernist poster",
+      "prompt_ko": "1920년대 바우하우스 기하학 구성주의 일러스트, 원·삼각형·직선의 순수 조형과 빨강·파랑·노랑 삼원색 대비, 따뜻한 미색 종이 질감"
+    },
+    {
+      "id": "014-de-stijl-neoplasticism",
+      "cat": "contemporary-pop",
+      "ko": "데 스틸 · 몬드리안 신조형주의",
+      "en": "De Stijl Neoplastic Grid",
+      "era": "1917~1930년대 네덜란드",
+      "tags": [
+        "2D",
+        "벡터/그래픽",
+        "전통회화"
+      ],
+      "desc": "수직·수평의 굵은 검은 격자선과 순수 삼원색·무채색 직사각형 면 분할로 풍경의 질서를 추상화",
+      "prompt_en": "De Stijl Neoplasticism art in the style of Piet Mondrian and Theo van Doesburg, strict orthogonal black horizontal and vertical grid lines filled with pure primary red, yellow, blue, and white blocks interpreting the scene",
+      "prompt_ko": "피트 몬드리안풍 데 스틸(신조형주의) 스타일, 엄격한 수직·수평 검은 격자선과 빨강·노랑·파랑·흰색 면 분할로 재해석한 구도"
+    },
+    {
+      "id": "015-pop-art-halftone",
+      "cat": "contemporary-pop",
+      "ko": "1960년대 팝아트 벤데이 망점",
+      "en": "1960s Pop Art Ben-Day Halftone",
+      "era": "1960년대 미국/영국",
+      "tags": [
+        "2D",
+        "레트로/판화",
+        "만화/애니"
+      ],
+      "desc": "로이 리히텐슈타인·앤디 워홀 스타일의 굵은 검은 외곽선, 큼직한 벤데이 컬러 망점과 강렬한 상업 원색",
+      "prompt_en": "1960s American Pop Art screenprint in the style of Roy Lichtenstein and Andy Warhol, bold black comic outlines, visible enlarged Ben-Day halftone color dots, vivid cyan magenta and bright yellow",
+      "prompt_ko": "1960년대 팝아트 실크스크린 화풍, 로이 리히텐슈타인 스타일의 굵은 검은 외곽선과 선명하게 확대된 벤데이 컬러 망점, 강렬한 원색 대비"
+    },
+    {
+      "id": "016-abstract-expressionism",
+      "cat": "contemporary-pop",
+      "ko": "추상표현주의 제스처 페인팅",
+      "en": "Abstract Expressionist Action Paint",
+      "era": "1950년대 뉴욕",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "대담하게 휘갈긴 대형 붓질과 물감 흩뿌리기(드립), 폭발적인 캔버스 에너지로 형상을 암시하는 현대 회화",
+      "prompt_en": "1950s New York Abstract Expressionist painting, sweeping energetic gestural broad brushstrokes, dynamic paint splatters and drips, raw linen canvas peeking through, vivid expressive color",
+      "prompt_ko": "1950년대 뉴욕 추상표현주의 액션 페인팅, 거침없고 역동적인 대형 붓질과 물감 드리핑·스플래터 질감으로 풍경을 반추상화한 현대 회화"
+    },
+    {
+      "id": "017-hockney-sunlit-pop",
+      "cat": "contemporary-pop",
+      "ko": "데이비드 호크니풍 캘리포니아 아크릴화",
+      "en": "Sunlit Flat Acrylic Realism",
+      "era": "1960~2000년대 현대",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "선명하고 산뜻한 아크릴 평면 색채, 경쾌한 청록색·코랄 색감과 햇살 가득한 여유로운 현대 구상회화",
+      "prompt_en": "Vibrant contemporary acrylic painting in the style of David Hockney, crisp flat sunlit turquoise, coral pink and lime green colors, clean playful simplified realism, cheerful daylight clarity",
+      "prompt_ko": "데이비드 호크니풍 현대 아크릴 구상회화, 맑고 산뜻한 터콰이즈 블루와 코랄 색감, 군더더기 없이 평면적이면서도 생동감 넘치는 햇살 표현"
+    },
+    {
+      "id": "018-street-graffiti-stencil",
+      "cat": "contemporary-pop",
+      "ko": "어반 스트리트 그래피티 & 스텐실",
+      "en": "Urban Street Mural & Stencil",
+      "era": "현대 스트리트 아트",
+      "tags": [
+        "2D",
+        "수작업/공예"
+      ],
+      "desc": "거친 벽돌 담벼락 위에 스프레이 페인트 그라데이션, 스텐실 실루엣, 흘러내리는 페인트 자국이 어우러진 벽화",
+      "prompt_en": "Vibrant urban street art mural painted on weathered brick wall, layered aerosol spray paint gradients, crisp cut-out stencil details, neon paint drips and expressive street mural energy",
+      "prompt_ko": "거친 벽돌 벽면 위에 그린 어반 스트리트 그래피티 뮤럴, 에어졸 스프레이 페인트 번짐과 정교한 스텐실 기법, 생동감 있는 페인트 드립"
+    },
+    {
+      "id": "019-neo-expressionism",
+      "cat": "contemporary-pop",
+      "ko": "네오 익스프레셔니즘 원초적 회화",
+      "en": "Neo-Expressionist Raw Canvas",
+      "era": "1980년대 뉴욕",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "오일스틱·크레용·아크릴을 거칠게 긁고 덧칠한 자유분방하고 날것 그대로인 현대 미술관 컬렉션 화풍",
+      "prompt_en": "1980s Neo-Expressionist mixed-media painting on raw canvas, energetic oil-stick scrawls, bold expressive symbols, layered scraped acrylic blocks in cobalt, crimson and ochre",
+      "prompt_ko": "1980년대 네오 익스프레셔니즘 믹스드미디어 회화, 거친 캔버스 위에 아크릴 물감과 오일스틱 크레용을 자유분방하게 긁고 덧칠한 강렬한 화풍"
+    },
+    {
+      "id": "020-psychedelic-60s",
+      "cat": "contemporary-pop",
+      "ko": "1960년대 사이키델릭 리퀴드 포스터",
+      "en": "1960s Psychedelic Liquid Swirl",
+      "era": "1960년대 후반 샌프란시스코",
+      "tags": [
+        "2D",
+        "벡터/그래픽",
+        "레트로/판화"
+      ],
+      "desc": "물결치듯 녹아내리는 마블링 곡선과 형광 오렌지·마젠타·바이올렛의 강렬한 환각적 레트로 록 포스터 감성",
+      "prompt_en": "Late 1960s San Francisco psychedelic poster art in the style of Peter Max and Wes Wilson, kaleidoscopic melting liquid swirl lines, vibrating fluorescent magenta, tangerine and electric violet",
+      "prompt_ko": "1960년대 후반 사이키델릭 아트워크, 피터 맥스 스타일의 만화경처럼 일렁이는 유선형 물결 패턴과 형광 마젠타·오렌지·바이올렛 컬러"
+    },
+    {
+      "id": "021-vaporwave-aesthetic",
+      "cat": "contemporary-pop",
+      "ko": "베이퍼웨이브 90s 레트로 미학",
+      "en": "90s Vaporwave Pastel Glitch",
+      "era": "2010년대 인터넷 서브컬처",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "핑크·민트·라벤더 파스텔 네온, 초기 윈도우95 그래픽 감성과 VHS 스캔라인, 체커보드 바닥의 초현실 노스탤지어",
+      "prompt_en": "Nostalgic 1990s Vaporwave digital art aesthetic, pastel pink cyan and lavender sunset gradient, retro palm silhouettes, subtle VHS scanlines, iridescent holographic grid shimmer",
+      "prompt_ko": "90년대 인터넷 노스탤지어 베이퍼웨이브 아트워크, 파스텔 핑크·민트·라벤더 그라데이션 하늘과 은은한 VHS 스캔라인, 레트로 디지털 감성"
+    },
+    {
+      "id": "022-afrofuturism-cosmic",
+      "cat": "contemporary-pop",
+      "ko": "아프로퓨처리즘 코즈믹 골드 아트",
+      "en": "Cosmic Afrofuturism & Gold Pattern",
+      "era": "현대 글로벌 아트",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "아프리카 전통 기하학 텍스타일 문양과 미래지향적 황금빛 우주 조명, 생동감 넘치는 테라코타·울트라마린 색채",
+      "prompt_en": "Vibrant Afrofuturist illustration, luminous golden geometric Ankara textile patterns woven into futuristic architecture, rich ultramarine twilight, warm terracotta and radiant cosmic gold",
+      "prompt_ko": "아프로퓨처리즘 일러스트레이션, 정교한 전통 기하학 황금 문양과 미래적 건축 조형, 짙은 울트라마린과 테라코타·골드의 장엄한 조화"
+    },
+    {
+      "id": "023-korean-minhwa",
+      "cat": "world-traditional",
+      "ko": "한국 전통 민화 (한지 채색화)",
+      "en": "Korean Traditional Minhwa on Hanji",
+      "era": "조선 후기~현대 한국",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "닥종이(한지) 위에 분채·석채로 정겹게 채색한 오방색 소나무·구름·물결 문양과 해학적인 한국 민화 화풍",
+      "prompt_en": "Traditional Korean Joseon-dynasty Minhwa folk painting on textured mulberry Hanji paper, mineral pigments in obangsaek muted vermilion, indigo, ochre and pine green, stylized decorative clouds and waves, charming folk cat",
+      "prompt_ko": "전통 한지 위에 석채와 분채로 그린 한국 조선 민화 화풍, 해학적인 고양이와 장식적인 구름·물결 문양, 은은하고 깊이 있는 오방색 채색"
+    },
+    {
+      "id": "024-korean-sumuk-damchaehwa",
+      "cat": "world-traditional",
+      "ko": "동양 수묵담채화",
+      "en": "East Asian Sumi-e Ink & Light Wash",
+      "era": "전통 동아시아 문인화",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "화선지에 번지는 먹물의 농담(수묵)과 비워둔 여백의 미 위에 맑고 엷은 채색을 살짝 얹은 서정적 동양화",
+      "prompt_en": "Traditional Korean and East Asian Sumuk-damchaehwa ink wash painting on absorbent Xuan rice paper, expressive calligraphic black sumi ink brushstrokes, poetic negative space mist, delicate pale peach and indigo mineral wash",
+      "prompt_ko": "화선지 위에 그린 동양 수묵담채화, 먹의 번짐과 농담을 살린 유려한 붓선과 여백의 미, 맑고 은은하게 얹은 담채 색감"
+    },
+    {
+      "id": "025-chinese-gongbi",
+      "cat": "world-traditional",
+      "ko": "청록산수 · 비단 공필화",
+      "en": "Classical Gongbi Blue-Green Silk Art",
+      "era": "당·송대 궁정 회화",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "고운 비단 위에 머리카락처럼 세밀한 먹선으로 윤곽을 그리고 공작석 녹색·남색·금분으로 정교하게 채색한 궁정화",
+      "prompt_en": "Classical Chinese Song-dynasty Gongbi meticulous court painting on warm aged silk, ultra-fine ink outlines, mineral malachite green, azurite blue and gold leaf accents, misty layered blue-green landscape",
+      "prompt_ko": "고풍스러운 비단 위에 그린 동양 궁정 공필화 및 청록산수화풍, 치밀하고 가는 필선과 공작석 녹색·군청·금분의 화려하고 단아한 채색"
+    },
+    {
+      "id": "026-japanese-ukiyo-e",
+      "cat": "world-traditional",
+      "ko": "일본 우키요에 다색 목판화",
+      "en": "Japanese Edo Ukiyo-e Woodblock",
+      "era": "18~19세기 에도 시대",
+      "tags": [
+        "2D",
+        "전통회화",
+        "레트로/판화"
+      ],
+      "desc": "호쿠사이·히로시게 특유의 또렷한 먹 판각선, 보카시(그라데이션) 프러시안 블루 수면과 목판 나뭇결 자국",
+      "prompt_en": "Authentic Japanese Edo-period Ukiyo-e woodblock print in the style of Hiroshige and Hokusai, crisp carved keyblock black outlines, bokashi Prussian blue and sunset coral ink gradients, visible washi paper grain",
+      "prompt_ko": "히로시게·호쿠사이 스타일의 일본 에도시대 우키요에 목판화, 정교한 판각 외곽선과 프러시안 블루·노을빛 보카시 그라데이션, 화지 질감"
+    },
+    {
+      "id": "027-persian-miniature",
+      "cat": "world-traditional",
+      "ko": "페르시아 세밀화 채식사본",
+      "en": "Persian Illuminated Miniature",
+      "era": "15~16세기 페르시아",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "그림자 없는 평면적 다층 구도 속에 라피스라줄리 청색과 순금박, 보석처럼 정밀한 아라베스크 문양을 채운 세밀화",
+      "prompt_en": "16th-century Safavid Persian miniature painting on illuminated manuscript page, jewel-like lapis lazuli blue, turquoise and real gold leaf sky, intricate arabesque floral tile patterns, delicate flat perspective",
+      "prompt_ko": "16세기 페르시아 채식필사본 세밀화 화풍, 보석 같은 라피스라줄리 푸른빛과 순금박 하늘, 치밀한 아라베스크 꽃·타일 세공 문양"
+    },
+    {
+      "id": "028-byzantine-mosaic",
+      "cat": "world-traditional",
+      "ko": "비잔틴 황금 유리 모자이크",
+      "en": "Byzantine Gold-Leaf Tesserae Mosaic",
+      "era": "6~12세기 비잔티움",
+      "tags": [
+        "2D",
+        "수작업/공예",
+        "전통회화"
+      ],
+      "desc": "수천 개의 반짝이는 색유리 조각(테세라)과 황금박 타일을 촘촘히 박아 넣고 줄눈으로 연결한 성당 벽화 양식",
+      "prompt_en": "Ancient Byzantine mosaic artwork made of thousands of hand-cut colored smalti glass tesserae and shimmering 24k gold-leaf tiles with visible mortar grout lines, stylized sacred iconography",
+      "prompt_ko": "수천 개의 수제 색유리 조각(테세라)과 반짝이는 황금박 타일을 촘촘히 맞춰 붙인 고대 비잔틴 모자이크 벽화 스타일"
+    },
+    {
+      "id": "029-medieval-illuminated",
+      "cat": "world-traditional",
+      "ko": "중세 유럽 양피지 채식필사본",
+      "en": "Medieval Illuminated Manuscript",
+      "era": "13~15세기 유럽",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "오래된 벨럼 양피지 위에 달걀 템페라 원색과 금박 장식, 아칸서스 덩굴 테두리로 꾸민 중세 수도원 삽화",
+      "prompt_en": "Medieval Gothic illuminated Book of Hours manuscript illustration on aged vellum parchment, burnished gold leaf accents, vivid egg tempera ultramarine and vermilion, ornate floral marginalia border",
+      "prompt_ko": "중세 유럽 양피지 채식필사본(기도서) 삽화 화풍, 고풍스러운 양피지 질감과 금박 장식, 선명한 템페라 청색·주홍색과 덩굴 테두리"
+    },
+    {
+      "id": "030-indian-madhubani",
+      "cat": "world-traditional",
+      "ko": "인도 마두바니 전통 민속화",
+      "en": "Indian Madhubani Folk Pattern Art",
+      "era": "인도 미틸라 전통",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "이중 윤곽선 내부를 빈틈없는 미세 빗금·기하학·꽃 문양과 천연 황토·주홍·인디고 염료로 가득 채운 민속화",
+      "prompt_en": "Traditional Indian Madhubani Mithila folk painting, intricate double-line black nib borders densely filled with geometric crosshatching, lotus motifs and natural turmeric yellow, vermilion and indigo pigments",
+      "prompt_ko": "인도 전통 마두바니 민속화 스타일, 정교한 이중 검은 윤곽선 내부를 세밀한 기하학 빗금과 연꽃 문양, 천연 원색 안료로 가득 채운 화풍"
+    },
+    {
+      "id": "031-mexican-folk-talavera",
+      "cat": "world-traditional",
+      "ko": "멕시코 알레브리헤 · 포크 플로럴",
+      "en": "Mexican Alebrije & Otomi Folk Art",
+      "era": "멕시코 전통 민예",
+      "tags": [
+        "2D",
+        "전통회화",
+        "수작업/공예"
+      ],
+      "desc": "오토미 자수와 알레브리헤 특유의 현란한 도트·물결·꽃무늬 패턴과 축제처럼 밝고 뜨거운 중남미 색채",
+      "prompt_en": "Vibrant Mexican Alebrije and Otomi folk art illustration, festive fiesta palette of marigold orange, magenta, turquoise and cobalt, intricate hand-painted dot and floral filigree patterns throughout",
+      "prompt_ko": "멕시코 알레브리헤 및 오토미 전통 민속 일러스트, 마리골드 오렌지·마젠타·터콰이즈의 축제 같은 색감과 정교한 도트·꽃 문양 장식"
+    },
+    {
+      "id": "032-stained-glass-cathedral",
+      "cat": "world-traditional",
+      "ko": "고딕 대성당 스테인드글라스",
+      "en": "Backlit Leaded Stained Glass",
+      "era": "중세 고딕~현대 공예",
+      "tags": [
+        "2D",
+        "수작업/공예"
+      ],
+      "desc": "굵은 납선(케임)으로 구획된 반투명 루비·사파이어·앰버 색유리 뒤로 강렬한 햇빛이 투과하는 영롱한 화풍",
+      "prompt_en": "Luminous Gothic cathedral stained glass window art, thick dark lead came soldering lines separating jewel-toned translucent ruby, sapphire, emerald and amber rippled glass panels glowing with sunlight behind",
+      "prompt_ko": "햇빛이 뒤에서 투과하여 영롱하게 빛나는 고딕 스테인드글라스 아트, 굵은 검은 납선 테두리와 루비·사파이어·앰버 물결 색유리 질감"
+    },
+    {
+      "id": "033-transparent-watercolor",
+      "cat": "media-drawing",
+      "ko": "투명 수채화 (Wet-on-Wet)",
+      "en": "Transparent Wet-on-Wet Watercolor",
+      "era": "수채 회화 기법",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "요철 있는 황목 수채화지 위에 물기가 자연스럽게 번지고 스며들며 종이 흰색을 빛으로 남기는 맑은 수채화",
+      "prompt_en": "Loose transparent watercolor painting on rough cold-press cotton paper, natural wet-on-wet pigment blooms, granulation and crisp water edges, unpainted white paper highlights, airy luminous wash",
+      "prompt_ko": "질감이 살아있는 코튼 수채화지 위에 그린 맑은 투명 수채화, 물 번짐(Wet-on-Wet)과 물자국 테두리, 종이의 흰 여백을 살린 청량한 채색"
+    },
+    {
+      "id": "034-gouache-opaque",
+      "cat": "media-drawing",
+      "ko": "벨벳 매트 불투명 과슈",
+      "en": "Matte Velvety Opaque Gouache",
+      "era": "전통/현대 일러스트 재료",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "수채화와 아크릴의 장점을 합친 듯 무광(매트)이고 벨벳처럼 부드럽고 불투명하게 발색되는 감성 과슈 페인팅",
+      "prompt_en": "Hand-painted opaque designer gouache illustration on thick paper, velvety ultra-matte chalky finish, rich flat layered brushwork where light opaque cream and coral strokes sit cleanly over deep navy",
+      "prompt_ko": "불투명 과슈(Gouache) 핸드페인팅 일러스트, 벨벳처럼 매트하고 포근한 무광 발색, 어두운 색 위에도 선명하게 올라가는 감성적 붓터치"
+    },
+    {
+      "id": "035-palette-knife-oil",
+      "cat": "media-drawing",
+      "ko": "팔레트 나이프 두꺼운 유화",
+      "en": "Heavy Palette-Knife Impasto Oil",
+      "era": "현대 구상 유화 기법",
+      "tags": [
+        "2D",
+        "전통회화",
+        "유화"
+      ],
+      "desc": "붓 대신 금속 팔레트 나이프로 버터처럼 꾸덕한 유화 물감을 큼직하게 펴 바르고 긁어낸 입체적 마티에르",
+      "prompt_en": "Heavy palette knife oil painting on canvas, thick buttery slabs of oil paint sculpted with metal knife strokes, cast micro-shadows on physical paint ridges, vibrant sunset reflections",
+      "prompt_ko": "붓 대신 팔레트 나이프로 두툼하게 떠서 바른 유화, 버터처럼 꾸덕하고 입체적인 물감 결이 실제 그림자를 드리우는 생생한 마티에르"
+    },
+    {
+      "id": "036-soft-pastel-chalk",
+      "cat": "media-drawing",
+      "ko": "소프트 파스텔 · 초크 드로잉",
+      "en": "Velvety Soft Chalk Pastel",
+      "era": "드로잉·회화 기법",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "색지 위에 보송보송한 파스텔 가루를 손끝으로 블렌딩하고 결을 살려 겹쳐 칠한 따뜻하고 포근한 질감",
+      "prompt_en": "Soft dry chalk pastel artwork on textured warm grey Mi-Teintes paper, powdery velvety pigment dust, finger-blended sunset sky with crisp overlapping pastel stick strokes",
+      "prompt_ko": "결이 고운 색지 위에 그린 소프트 파스텔화, 보송보송한 분필 파스텔 가루 질감과 손끝으로 부드럽게 문질러 블렌딩한 포근한 노을빛"
+    },
+    {
+      "id": "037-oil-pastel-crayon",
+      "cat": "media-drawing",
+      "ko": "오일 파스텔 · 크레용 감성화",
+      "en": "Creamy Textured Oil Pastel",
+      "era": "감성 드로잉 기법",
+      "tags": [
+        "2D",
+        "수작업/공예",
+        "전통회화"
+      ],
+      "desc": "시넬리에·문교 오일파스텔 특유의 쫀득하고 크리미한 왁스 뭉침과 투박하면서도 사랑스러운 손그림 터치",
+      "prompt_en": "Expressive Sennelier oil pastel drawing on heavyweight paper, thick creamy wax crayon texture, charming chunky hand-drawn strokes, rich saturated pigments with tiny wax crumbs",
+      "prompt_ko": "두툼한 도화지 위에 그린 크리미한 오일 파스텔 드로잉, 쫀득하게 뭉치는 크레용 왁스 질감과 투박하고 따뜻한 감성 손그림 터치"
+    },
+    {
+      "id": "038-colored-pencil-botanical",
+      "cat": "media-drawing",
+      "ko": "세밀 유성 색연필화",
+      "en": "Fine Layered Colored Pencil",
+      "era": "정밀 일러스트 기법",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "수십 겹의 가느다란 색연필 해칭을 차곡차곡 쌓아 종이 결과 따뜻한 아날로그 색감의 깊이를 동시에 살린 화풍",
+      "prompt_en": "Detailed Prismacolor and Polychromos colored pencil illustration on fine-tooth paper, delicate multi-layered directional pencil strokes, subtle paper grain peeking through, warm cozy analog shading",
+      "prompt_ko": "정밀 유성 색연필 일러스트레이션, 수십 겹으로 촘촘하게 쌓아 올린 섬세한 색연필 선 해칭과 종이 결이 은은히 비치는 따뜻한 아날로그 질감"
+    },
+    {
+      "id": "039-graphite-pencil-sketch",
+      "cat": "media-drawing",
+      "ko": "흑연 연필 정밀 소묘",
+      "en": "Academic Graphite Pencil Sketch",
+      "era": "클래식 아카데믹 드로잉",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "4H부터 8B까지 흑연 연필의 선 맛과 크로스해칭만으로 빛과 입체, 질감을 완벽하게 구현한 스케치북 소묘",
+      "prompt_en": "Masterful monochrome graphite pencil drawing in an artist sketchbook, fine HB construction lines and rich 6B crosshatching shading, subtle graphite sheen on ivory drawing paper",
+      "prompt_ko": "아이보리 스케치북 위에 흑연 연필만으로 정밀하게 그려낸 아카데믹 연필 소묘, 섬세한 선의 강약과 풍부한 크로스해칭 명암"
+    },
+    {
+      "id": "040-charcoal-dramatic",
+      "cat": "media-drawing",
+      "ko": "목탄 드로잉 & 화이트 초크",
+      "en": "Expressive Charcoal & White Chalk",
+      "era": "클래식/현대 드로잉",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "거친 드로잉지 위에 검댕처럼 깊은 버드나무 목탄 스머징과 지우개·화이트 콩테 하이라이트로 빚어낸 극적 흑백화",
+      "prompt_en": "Dramatic willow charcoal and white chalk drawing on toned rough toothy paper, deep velvety black smudged shadows, kneaded-eraser lifted light rays, raw expressive gestural marks",
+      "prompt_ko": "거친 톤 페이퍼 위에 그린 극적인 목탄(Charcoal) 드로잉, 손으로 문지른 깊은 검은 목탄 음영과 화이트 초크·떡지우개로 살려낸 빛줄기"
+    },
+    {
+      "id": "041-fountain-pen-ink-wash",
+      "cat": "media-drawing",
+      "ko": "만년필 어반스케치 & 수채 워시",
+      "en": "Urban Sketching Pen & Ink Wash",
+      "era": "어반 스케치 기법",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "여행지 노트에 방수 만년필로 빠르게 그은 생동감 있는 펜선과 가볍게 얹은 수채 물감이 어우러진 어반스케치",
+      "prompt_en": "Lively on-location Urban Sketchers travel journal illustration, waterproof black fountain pen ink linework with loose crosshatching, splashed with fresh light watercolor washes",
+      "prompt_ko": "여행 스케치북에 만년필 검은 잉크선으로 경쾌하게 드로잉한 뒤 맑은 수채 물감을 가볍게 얹은 어반 스케치(펜 앤 워시) 화풍"
+    },
+    {
+      "id": "042-alcohol-marker-copic",
+      "cat": "media-drawing",
+      "ko": "코픽 알코올 마카 렌더링",
+      "en": "Copic Alcohol Marker Sketch",
+      "era": "건축·제품·일러스트 스케치",
+      "tags": [
+        "2D",
+        "수작업/공예"
+      ],
+      "desc": "넙적한 치즐 닙 마카의 경쾌한 스트로크 결, 반투명하게 겹치는 발색, 화이트 젤펜 하이라이트의 디자인 스케치",
+      "prompt_en": "Crisp Copic alcohol marker illustration on smooth marker pad, visible chisel-nib marker strokes and layered translucent blending, fine liner ink outlines and white gel-pen rim highlights",
+      "prompt_ko": "코픽(Copic) 알코올 마카 핸드 렌더링, 치즐 닙 마카 특유의 반투명 스트로크 겹침과 날렵한 라이너 펜선, 화이트 젤펜 하이라이트"
+    },
+    {
+      "id": "043-airbrush-retro-80s",
+      "cat": "media-drawing",
+      "ko": "1980년대 아날로그 크롬 에어브러시",
+      "en": "1980s Analog Chrome Airbrush",
+      "era": "1970~1980년대 상업 일러스트",
+      "tags": [
+        "2D",
+        "레트로/판화"
+      ],
+      "desc": "실물 마스킹 필름과 분사식 에어브러시로 완성한 극도로 매끄러운 그라데이션, 별빛 반사광과 레트로 SF 앨범커버 감성",
+      "prompt_en": "1980s vintage analog airbrush illustration in the style of Hajime Sorayama and classic vinyl album art, ultra-smooth airbrushed gradients, gleaming chrome reflections, crisp starburst specular highlights",
+      "prompt_ko": "1980년대 빈티지 아날로그 에어브러시 일러스트, LP 앨범 재킷처럼 매끄럽게 분사된 그라데이션과 메탈릭 반사광, 십자 별빛 하이라이트"
+    },
+    {
+      "id": "044-scratchboard-engraving",
+      "cat": "media-drawing",
+      "ko": "동판 에칭 · 스크래치보드 세밀판화",
+      "en": "Copperplate Etching & Scratchboard",
+      "era": "17~19세기 고서 삽화",
+      "tags": [
+        "2D",
+        "레트로/판화"
+      ],
+      "desc": "귀스타브 도레의 고전 동판화처럼 수만 개의 치밀한 평행·교차 해칭선만으로 구름과 파도의 장엄한 명암을 조각한 화풍",
+      "prompt_en": "Intricate 19th-century copperplate engraving and scratchboard illustration in the style of Gustave Dore, ultra-fine parallel line hatching and cross-contour engraving, high-contrast black ink on warm antique ivory paper",
+      "prompt_ko": "귀스타브 도레풍 19세기 정밀 동판 에칭 및 스크래치보드 일러스트, 오직 치밀한 평행 해칭선들의 밀도만으로 구름과 빛, 파도를 조각한 화풍"
+    },
+    {
+      "id": "045-risograph-print",
+      "cat": "print-analog",
+      "ko": "리소그래프 별색 공판인쇄",
+      "en": "Fluorescent Risograph Grain Print",
+      "era": "현대 인디 출판·일러스트",
+      "tags": [
+        "2D",
+        "레트로/판화"
+      ],
+      "desc": "형광 코랄 핑크·틸 블루·옐로우 콩기름 잉크의 거친 모래알 하프톤 입자와 살짝 어긋난 핀트(오버프린트) 매력",
+      "prompt_en": "Authentic 3-color Risograph print illustration on uncoated recycled paper, fluorescent coral pink, teal blue and sunflower soy ink, grainy stippled stencil texture, charming slight color misregistration overlap",
+      "prompt_ko": "무코팅 재생지 위에 찍은 3도 별색 리소그래프(Risograph) 인쇄 일러스트, 형광 핑크와 틸 블루 잉크의 모래알 그레인 질감과 자연스러운 판 어긋남"
+    },
+    {
+      "id": "046-linocut-woodcut",
+      "cat": "print-analog",
+      "ko": "리노컷 · 볼록 조각 판화",
+      "en": "Hand-Carved Linocut Block Print",
+      "era": "전통/모던 판화",
+      "tags": [
+        "2D",
+        "레트로/판화",
+        "수작업/공예"
+      ],
+      "desc": "조각도로 고무·리놀륨 판을 직접 파낸 힘찬 칼자국 결과 롤러 잉크의 투박한 찍힘이 살아있는 수제 판화",
+      "prompt_en": "Bold hand-carved two-color linocut relief block print, expressive gouge chisel marks, graphic black and burnt-orange oil-based block ink pressed onto textured cotton printmaking paper",
+      "prompt_ko": "조각도로 직접 파내어 찍은 2도 리노컷(고무·리놀륨 볼록판화) 스타일, 힘찬 칼자국 결과 수제 롤러 잉크의 진하고 담백한 판화 질감"
+    },
+    {
+      "id": "047-silkscreen-serigraph",
+      "cat": "print-analog",
+      "ko": "실크스크린 세리그래프 포스터",
+      "en": "Spot-Color Silkscreen Serigraph",
+      "era": "모던 아트 프린트",
+      "tags": [
+        "2D",
+        "레트로/판화",
+        "벡터/그래픽"
+      ],
+      "desc": "4~5가지 정제된 불투명 별색 잉크 판을 한 겹씩 스퀴지로 밀어 얹어 또렷하고 그래픽적인 색면 대비를 만드는 기법",
+      "prompt_en": "Limited-edition spot-color silkscreen serigraph art poster, 5 flat opaque screenprinted ink layers with crisp stencil shapes, rich matte ink texture and subtle halftone shadow layer",
+      "prompt_ko": "한정판 별색 실크스크린(세리그래프) 아트 포스터 화풍, 5가지 불투명 매트 별색 잉크 레이어를 겹겹이 찍어낸 명쾌하고 감각적인 그래픽 구성"
+    },
+    {
+      "id": "048-vintage-travel-poster",
+      "cat": "print-analog",
+      "ko": "1950년대 빈티지 여행 리소그래피 포스터",
+      "en": "Mid-Century Vintage Travel Poster",
+      "era": "1930~1950년대 철도·항공 포스터",
+      "tags": [
+        "2D",
+        "레트로/판화",
+        "벡터/그래픽"
+      ],
+      "desc": "고전 철도·항공사 관광 포스터처럼 대담하게 단순화한 원근 색면과 따뜻한 빈티지 석판인쇄 감성",
+      "prompt_en": "1950s vintage mid-century WPA and European railway travel lithograph poster artwork, stylized bold flat color planes, dramatic scenic composition, warm retro gouache and litho stone grain, no text",
+      "prompt_ko": "1950년대 빈티지 유럽 철도·항공 관광 포스터 석판화 스타일, 대담하게 정돈된 색면 원근법과 낭만적인 레트로 노을 색감"
+    },
+    {
+      "id": "049-collage-mixed-media",
+      "cat": "print-analog",
+      "ko": "찢어 붙인 종이 콜라주 · 믹스드미디어",
+      "en": "Torn-Paper Mixed-Media Collage",
+      "era": "다다이즘~현대 북아트",
+      "tags": [
+        "2D",
+        "수작업/공예",
+        "레트로/판화"
+      ],
+      "desc": "에릭 칼이나 북아트처럼 색색의 손염색 종이, 고서 활자지, 잡지 조각을 손으로 찢고 오려 겹쳐 붙인 입체적 콜라주",
+      "prompt_en": "Handcrafted torn-paper mixed-media collage illustration, layered hand-painted tissue papers, vintage newsprint scraps, textured cardboard cutouts with visible white torn paper fibers and subtle drop shadows",
+      "prompt_ko": "손으로 찢고 오린 색종이·수제 염색지·빈티지 인쇄물 조각들을 겹겹이 붙여 완성한 믹스드미디어 페이퍼 콜라주 일러스트"
+    },
+    {
+      "id": "050-blueprint-cyanotype",
+      "cat": "print-analog",
+      "ko": "시아노타입 감광 청사진",
+      "en": "Prussian Blue Cyanotype Print",
+      "era": "1840년대 초기 사진·판화",
+      "tags": [
+        "2D",
+        "레트로/판화",
+        "사진/필름"
+      ],
+      "desc": "태양빛 감광 철염 인화 기법 특유의 깊고 신비로운 프러시안 블루 배경과 순백색 네거티브 실루엣·선화",
+      "prompt_en": "Authentic 19th-century sun-printed Cyanotype artwork on watercolor paper, rich deep Prussian blue ferric ferrocyanide wash with brushed chemical edges and crisp luminous white linework and silhouettes",
+      "prompt_ko": "햇빛 감광 인화 기법인 시아노타입(청사진) 아트, 손으로 바른 감광액 붓자국 테두리와 깊고 푸른 프러시안 블루 바탕 위 하얗게 드러나는 이미지"
+    },
+    {
+      "id": "051-vintage-postage-stamp",
+      "cat": "print-analog",
+      "ko": "우표 · 화폐 인탈리오 인그레이빙",
+      "en": "Intaglio Banknote & Stamp Engraving",
+      "era": "클래식 유가증권 조각",
+      "tags": [
+        "2D",
+        "레트로/판화"
+      ],
+      "desc": "고전 우표와 지폐에 쓰이는 기요셰(Guilloché) 기하학 세선 테두리와 초정밀 단색/복색 요판 선조각 기법",
+      "prompt_en": "Fine intaglio steel-engraved vintage postage stamp artwork with perforated stamp edge, intricate banknote guilloche linework border, bicolor deep indigo and carmine engraved hatching, no text",
+      "prompt_ko": "빈티지 우표 및 화폐 세공에 쓰이는 초정밀 인탈리오 요판 인그레이빙 화풍, 타공 우표 테두리와 치밀한 세선 해칭 조각"
+    },
+    {
+      "id": "052-tarot-alchemy-woodcut",
+      "cat": "print-analog",
+      "ko": "아르카나 타로 · 연금술 판화",
+      "en": "Esoteric Gold-Foiled Tarot Art",
+      "era": "오컬트·아르카나 일러스트",
+      "tags": [
+        "2D",
+        "레트로/판화"
+      ],
+      "desc": "별자리·태양·달 상징 프레임과 세밀한 잉크 펜선, 앤티크 골드 박(Foil)과 미드나잇 색채가 어우러진 신비주의 타로 화풍",
+      "prompt_en": "Ornate mystical Major Arcana tarot card illustration, intricate vintage ink woodcut linework, celestial sun moon and star filigree frame, muted jewel tones with shimmering gold foil accents, no text",
+      "prompt_ko": "신비로운 아르카나 타로 카드 일러스트 스타일, 천체·별자리 금박 장식 테두리와 세밀한 고전 판화 펜선, 깊이 있는 보석 톤 채색"
+    },
+    {
+      "id": "053-new-yorker-editorial",
+      "cat": "editorial-commercial",
+      "ko": "뉴욕커 매거진 에디토리얼 일러스트",
+      "en": "New Yorker Conceptual Editorial",
+      "era": "현대 매거진 저널리즘",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "절제된 팔레트와 세련된 여백, 지적인 위트와 드라이 브러시 그레인 텍스처가 살아있는 교양 매거진 표지 화풍",
+      "prompt_en": "Sophisticated New Yorker magazine cover style editorial illustration, witty refined composition, restrained warm terracotta slate and cream palette, subtle dry-brush and ink texture on archival paper, no text",
+      "prompt_ko": "뉴욕커 매거진 표지 감성의 세련된 에디토리얼 일러스트, 절제된 테라코타·슬레이트 색감과 지적인 구도, 은은한 드라이브러시 질감"
+    },
+    {
+      "id": "054-mid-century-modern-flat",
+      "cat": "editorial-commercial",
+      "ko": "1950년대 미드센추리 모던 일러스트",
+      "en": "1950s Mid-Century Modern (Mary Blair)",
+      "era": "1950년대 미국 모던 일러스트",
+      "tags": [
+        "2D",
+        "벡터/그래픽",
+        "전통회화"
+      ],
+      "desc": "메리 블레어·찰리 하퍼 스타일의 경쾌하고 납작한 기하학적 형태 감각, 올리브·머스타드·틸·코랄의 감각적 배색",
+      "prompt_en": "1950s Mid-Century Modern storybook illustration in the style of Mary Blair and Charley Harper, whimsical stylized flat geometric shapes, dry gouache brush texture, retro mustard, teal, olive and coral palette",
+      "prompt_ko": "메리 블레어·찰리 하퍼 스타일의 1950년대 미드센추리 모던 일러스트, 경쾌하게 단순화한 기하학 조형과 머스타드·틸·코랄 레트로 배색"
+    },
+    {
+      "id": "055-childrens-picture-book",
+      "cat": "editorial-commercial",
+      "ko": "포근한 현대 창작 동화책 삽화",
+      "en": "Cozy Children's Picture Book",
+      "era": "현대 어린이 그림책",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "색연필과 수채·과슈 질감이 포근하게 어우러지고 둥글고 다정한 형태감으로 마음을 녹이는 그림책 일러스트",
+      "prompt_en": "Heartwarming contemporary children's picture book illustration in the style of Oliver Jeffers and Carson Ellis, soft watercolor and colored pencil textures, gentle rounded shapes, cozy golden lantern warmth",
+      "prompt_ko": "마음이 따뜻해지는 현대 창작 그림책 삽화 스타일, 부드러운 수채 물감 위에 색연필 결을 더한 포근한 질감과 다정하고 둥근 형태 표현"
+    },
+    {
+      "id": "056-beatrix-potter-classic",
+      "cat": "editorial-commercial",
+      "ko": "클래식 영국 빅토리안 동화 삽화",
+      "en": "Classic Victorian Storybook Ink & Wash",
+      "era": "1900년대 영국 고전 동화",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "피터 래빗(베아트릭스 포터)처럼 섬세한 세피아 잉크 펜선과 자연주의적인 은은한 수채 채색이 조화된 고전 삽화",
+      "prompt_en": "Classic early-1900s English storybook illustration in the style of Beatrix Potter and E.H. Shepard, delicate sepia dip-pen crosshatching and gentle naturalistic watercolor washes on cream book paper",
+      "prompt_ko": "베아트릭스 포터(피터 래빗)풍 고전 영국 동화책 삽화, 섬세한 세피아 펜 드로잉과 자연을 닮은 은은하고 서정적인 수채 물감 채색"
+    },
+    {
+      "id": "057-nordic-folk-scandi",
+      "cat": "editorial-commercial",
+      "ko": "북유럽 스칸디나비안 포크 일러스트",
+      "en": "Scandinavian Whimsical Folk Art",
+      "era": "북유럽 모던 디자인",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "핀란드·스웨덴 디자인 특유의 담백하고 동화적인 대칭 나무·집 패턴과 차분한 노르딕 색감",
+      "prompt_en": "Charming Scandinavian Nordic folk design illustration in the spirit of Klaus Haapaniemi and Stig Lindberg, decorative stylized botanical and village motifs, clean flat shapes with subtle stamp texture",
+      "prompt_ko": "북유럽 스칸디나비안 포크 디자인 일러스트, 동화적이고 담백하게 양식화된 건물과 자연 모티프, 차분하고 세련된 노르딕 컬러 팔레트"
+    },
+    {
+      "id": "058-flat-vector-minimal",
+      "cat": "editorial-commercial",
+      "ko": "모던 플랫 지오메트릭 벡터",
+      "en": "Crisp Minimal Flat Vector Art",
+      "era": "현대 UI/브랜드 디자인",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "외곽선 없이 면도날처럼 깔끔한 벡터 도형과 명쾌한 빛·그림자 면 분할로 완성한 현대적 브랜드 일러스트",
+      "prompt_en": "Ultra-clean modern flat geometric vector illustration in Adobe Illustrator style, razor-sharp lineless shapes, harmonious sunset color blocks, clean cast geometric shadows, minimalist clarity",
+      "prompt_ko": "외곽선 없이 면도날처럼 깔끔한 기하학 도형과 세련된 컬러 블록만으로 빛과 공간을 정돈한 모던 플랫 벡터 일러스트"
+    },
+    {
+      "id": "059-corporate-memphis",
+      "cat": "editorial-commercial",
+      "ko": "코퍼레이트 멤피스 · 빅테크 일러스트",
+      "en": "Corporate Memphis Tech Editorial",
+      "era": "2017년~현대 IT 프로덕트",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "알레그리아(Alegria) 스타일로 널리 알려진 유연하고 과장된 곡선 비례와 플랫하고 경쾌한 원색 IT 서비스 일러스트",
+      "prompt_en": "Modern Silicon Valley tech brand Alegria Corporate Memphis flat vector style scene, playful sweeping curved shapes, bright cobalt, coral, yellow and lavender flat fills on crisp light background",
+      "prompt_ko": "글로벌 빅테크 앱·웹사이트에서 친숙한 코퍼레이트 멤피스(Alegria) 벡터 스타일, 경쾌하고 유려한 곡선 비례와 산뜻한 코발트·코랄 플랫 색감"
+    },
+    {
+      "id": "060-grainy-gradient-saas",
+      "cat": "editorial-commercial",
+      "ko": "그레이니 그라디언트 노이즈 일러스트",
+      "en": "Grainy Stippled Noise Vector",
+      "era": "현대 디지털 프로덕트 일러스트",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "깔끔한 벡터 도형 가장자리에 부드러운 에어브러시 그라데이션과 고운 모래알 노이즈(Stipple) 명암을 입힌 트렌디한 화풍",
+      "prompt_en": "Contemporary digital vector illustration with rich grainy noise stipple shading, smooth glowing sunset gradients combined with crisp geometric shapes and tactile airbrush grain texture",
+      "prompt_ko": "매끈한 기하학 벡터 조형 위에 부드러운 그라데이션 빛과 고운 모래알 노이즈(그레인) 명암 질감을 입힌 트렌디 디지털 일러스트"
+    },
+    {
+      "id": "061-monoline-badge-icon",
+      "cat": "editorial-commercial",
+      "ko": "모노라인 균일선 벡터 아트",
+      "en": "Clean Uniform-Stroke Monoline",
+      "era": "모던 브랜딩·아이콘 디자인",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "처음부터 끝까지 동일한 두께의 깔끔한 기하학 선(Monoline)과 2~3가지 포인트 컬러로 압축해낸 모던 엠블럼 화풍",
+      "prompt_en": "Crisp modern monoline vector illustration, uniform-weight rounded dark navy geometric line art with minimal warm amber and cream flat accent fills, clean emblem composition",
+      "prompt_ko": "균일한 두께의 매끈한 모노라인(단일 굵기 벡터선)과 최소한의 앰버·크림 포인트 색면으로 정교하게 요약한 모던 라인 일러스트"
+    },
+    {
+      "id": "062-isometric-infographic",
+      "cat": "editorial-commercial",
+      "ko": "아이소메트릭 테크 인포그래픽",
+      "en": "2.5D Isometric Vector Cutaway",
+      "era": "테크·건축 인포그래픽",
+      "tags": [
+        "2D",
+        "3D",
+        "벡터/그래픽"
+      ],
+      "desc": "소실점 없는 30도 정투영(Isometric) 각도로 마을과 등대 구조를 미니어처 설계도처럼 한눈에 보여주는 정교한 벡터 화풍",
+      "prompt_en": "Precision 2.5D isometric vector architectural illustration at 30-degree orthographic projection, crisp clean lines, subtle gradient shading, miniature diorama clarity",
+      "prompt_ko": "소실점 없는 30도 아이소메트릭(등각투영) 벡터 일러스트, 미니어처 건축 설계도처럼 깔끔하고 입체적으로 정돈된 2.5D 구도"
+    },
+    {
+      "id": "063-architectural-axonometric",
+      "cat": "editorial-commercial",
+      "ko": "건축 설계 펜 & 마카 투시도",
+      "en": "Architectural Concept Rendering",
+      "era": "건축 프레젠테이션 드로잉",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "건축가의 제도용 파인라이너 치수 보조선과 반투명 워시 채색이 살아있는 세련된 건축 스케치 투시도",
+      "prompt_en": "Architectural presentation perspective rendering, crisp technical fineliner ink construction lines extending subtly at corners, airy warm watercolor and marker wash on white paper",
+      "prompt_ko": "건축가의 프레젠테이션 투시도 스타일, 코너 밖으로 살짝 뻗어 나가는 정교한 제도 펜 보조선과 감각적인 워시 컬러링"
+    },
+    {
+      "id": "064-botanical-scientific-plate",
+      "cat": "editorial-commercial",
+      "ko": "19세기 자연사 박물관 정밀 도감",
+      "en": "Natural History Scientific Plate",
+      "era": "18~19세기 백과사전 도판",
+      "tags": [
+        "2D",
+        "전통회화",
+        "레트로/판화"
+      ],
+      "desc": "에른스트 헤켈·오듀본 도감처럼 세밀한 펜 해칭과 수채 채색으로 해안 생태와 건축 디테일을 기록한 고전 박물학 도판",
+      "prompt_en": "19th-century natural history museum scientific plate illustration in the style of Ernst Haeckel and John James Audubon, ultra-precise ink stippling and delicate hand-tinted watercolor on antique cream plate paper, no text",
+      "prompt_ko": "19세기 자연사 박물관 정밀 학술 도감 화풍, 에른스트 헤켈 스타일의 치밀한 관찰 펜선과 수제 수채 채색, 앤티크 도판 종이 질감"
+    },
+    {
+      "id": "065-korean-romance-webtoon",
+      "cat": "comics-webtoon",
+      "ko": "한국 하이퀄리티 컬러 웹툰풍",
+      "en": "High-Polish Korean Webtoon Art",
+      "era": "현대 K-웹툰 스튜디오",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "예리하고 깔끔한 디지털 선화 위에 반짝이는 역광(림라이트), 수려한 노을 그라데이션과 보케 효과를 더한 한국 웹툰 작화",
+      "prompt_en": "High-polish modern Korean Webtoon digital illustration, crisp refined lineart, luminous golden sunset rim lighting, sparkling atmospheric bokeh particles, rich cel and soft airbrush shading",
+      "prompt_ko": "최신 한국 프리미엄 웹툰 작화 스타일, 깔끔하고 섬세한 디지털 선화와 영롱한 노을 역광(림라이트), 반짝이는 보케 후보정 연출"
+    },
+    {
+      "id": "066-japanese-bw-manga",
+      "cat": "comics-webtoon",
+      "ko": "일본 흑백 출판만화 스크린톤",
+      "en": "Japanese B&W Manga Ink & Screentone",
+      "era": "일본 코믹스 전통",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "G펜과 마루펜의 필압이 살아있는 순수 흑백 먹선, 정교한 배경 펜터치와 도트 스크린톤으로 완성한 만화 원고 화풍",
+      "prompt_en": "Authentic Japanese black-and-white manga double-page spread art, crisp G-pen ink linework with dynamic line weight, detailed monochrome dot screentone gradients in sky and water, pure black and white ink on manga manuscript paper",
+      "prompt_ko": "일본 정통 흑백 만화 원고 작화, 날카로운 G펜 잉크 필압과 세밀한 배경 펜터치, 정교한 망점 스크린톤만으로 노을과 바다를 표현한 화풍"
+    },
+    {
+      "id": "067-ligne-claire-franco-belgian",
+      "cat": "comics-webtoon",
+      "ko": "리뉴 클레르 (프랑스·벨기에 방드데시네)",
+      "en": "Franco-Belgian Ligne Claire",
+      "era": "20세기 유럽 만화 (땡땡의 모험)",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "에르제(Hergé)가 정립한 기법으로, 원경과 근경 모두 균일하고 명료한 검은 윤곽선과 그라데이션 없는 깔끔한 단색 채색이 특징",
+      "prompt_en": "Classic Franco-Belgian Bande Dessinee Ligne Claire illustration in the style of Herge's Tintin, crisp uniform black ink outlines on every detail, clean flat unshaded colors without hatching, crystal-clear readability",
+      "prompt_ko": "벨기에·프랑스 만화 고전인 에르제(땡땡의 모험)풍 리뉴 클레르(Ligne Claire) 화풍, 균일하고 또렷한 검은 외곽선과 깔끔하고 명쾌한 평면 채색"
+    },
+    {
+      "id": "068-moebius-scifi-ink",
+      "cat": "comics-webtoon",
+      "ko": "뫼비우스풍 유럽 그래픽 잉크 & 파스텔",
+      "en": "Moebius Fine-Ink & Pastel Sci-Fi",
+      "era": "1970~1980년대 프랑스 아티스트",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "장 지로(뫼비우스) 특유의 섬세한 펜 점묘·해칭 디테일과 투명하고 초현실적인 코랄·민트·살구빛 파스텔 채색",
+      "prompt_en": "Illustration in the iconic style of Jean Giraud Moebius, intricate fine-nib ink linework with tiny organic stipple dots and crosshatching, luminous pastel apricot, turquoise and lavender washes, airy poetic atmosphere",
+      "prompt_ko": "장 지로(뫼비우스) 스타일의 유럽 아트 코믹 일러스트, 정교하고 유기적인 가는 펜 점묘·해칭 선화와 몽환적인 살구·민트 파스텔 채색"
+    },
+    {
+      "id": "069-american-golden-age-comic",
+      "cat": "comics-webtoon",
+      "ko": "미국 빈티지 코믹북 (잉크 & 뉴스프린트)",
+      "en": "Vintage American Four-Color Comic",
+      "era": "1950~1970년대 미국 코믹스",
+      "tags": [
+        "2D",
+        "만화/애니",
+        "레트로/판화"
+      ],
+      "desc": "붓펜으로 칠한 묵직한 블랙 스팟 잉킹(Black Spotting)과 낡은 갱지(Newsprint) 위의 4원색 CMYK 망점 인쇄 감성",
+      "prompt_en": "Vintage 1960s Silver Age American comic book illustration, bold brush-inked black shadows and feathering, classic four-color CMYK halftone dots printed on warm aged newsprint paper",
+      "prompt_ko": "1960년대 미국 빈티지 코믹북 스타일, 힘 있는 붓펜 먹칠(블랙 스팟) 음영과 바랜 갱지 위에 인쇄된 고전 4도 CMYK 컬러 망점"
+    },
+    {
+      "id": "070-modern-western-graphic-novel",
+      "cat": "comics-webtoon",
+      "ko": "모던 그래픽노블 느와르 잉크",
+      "en": "Graphic Novel Heavy-Ink Noir",
+      "era": "현대 북미 인디 그래픽노블",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "마이크 미뇰라(헬보이)처럼 과감하게 통째로 눌러 담은 검은 그림자 덩어리와 절제된 황혼빛 포인트 컬러의 강렬한 연출",
+      "prompt_en": "Atmospheric modern graphic novel art in the style of Mike Mignola, dramatic angular heavy solid black ink shadow shapes, stark architectural silhouettes, muted burnt-amber and deep teal color wash",
+      "prompt_ko": "마이크 미뇰라풍 모던 그래픽노블 화풍, 각지고 과감한 칠흑색 그림자 면 분할과 묵직한 실루엣, 절제된 앰버·청록 투톤 분위기"
+    },
+    {
+      "id": "071-rubber-hose-1930s",
+      "cat": "comics-webtoon",
+      "ko": "1930년대 러버호스 빈티지 카툰",
+      "en": "1930s Vintage Rubber-Hose Cartoon",
+      "era": "1930년대 초기 미국 극장판 카툰",
+      "tags": [
+        "2D",
+        "만화/애니",
+        "레트로/판화"
+      ],
+      "desc": "플라이셔 스튜디오·컵헤드처럼 파이 모양 눈동자(Pie-eyes), 고무호스처럼 휘어지는 형태, 수채 배경과 필름 먼지 질감",
+      "prompt_en": "1930s vintage Fleischer Studios and Cuphead rubber-hose cartoon style, pie-eyed cheerful cat character, bouncy curved vintage ink lines, hand-painted muted watercolor background, subtle 35mm film grain",
+      "prompt_ko": "1930년대 플라이셔 스튜디오·컵헤드 감성의 빈티지 러버호스 카툰, 파이 모양 눈동자와 고무호스처럼 통통 튀는 곡선, 수채화 배경과 필름 그레인"
+    },
+    {
+      "id": "072-modern-2d-tv-cartoon",
+      "cat": "comics-webtoon",
+      "ko": "북미 모던 TV 애니메이션 카툰",
+      "en": "Modern Stylized 2D TV Cartoon",
+      "era": "2010년대~현대 북미 애니메이션",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "그래비티 폴즈·힐다(Hilda)처럼 포근한 컬러 외곽선, 단순하고 개성 있는 도형 조형, 아늑한 동화적 색채 설계",
+      "prompt_en": "Charming modern Western 2D animated series art in the style of Hilda and Gravity Falls, warm colored lineart, stylized cozy geometric buildings, rich teal and golden sunset storybook palette",
+      "prompt_ko": "힐다(Hilda)·그래비티 폴즈 감성의 북미 모던 2D TV 애니메이션 화풍, 부드러운 컬러 외곽선과 감각적인 도형 비례, 아늑한 모험 색감"
+    },
+    {
+      "id": "073-chibi-sd-kawaii",
+      "cat": "comics-webtoon",
+      "ko": "SD · 치비(Chibi) 카와이 일러스트",
+      "en": "Cute Chibi Kawaii Pastel Art",
+      "era": "서브컬처·캐릭터 굿즈",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "미니어처처럼 앙증맞게 데포르메(축소·과장)된 둥글둥글한 비례와 말랑말랑한 파스텔 톤의 귀여운 마스코트 화풍",
+      "prompt_en": "Adorable super-deformed Chibi Kawaii digital illustration, cute plump rounded miniature harbor buildings and chubby wide-eyed cat, soft pastel candy colors, thick warm brown outlines",
+      "prompt_ko": "앙증맞고 동글동글한 비례로 데포르메한 SD·치비(Chibi) 카와이 일러스트, 부드러운 브라운 외곽선과 달콤한 파스텔 캔디 색감"
+    },
+    {
+      "id": "074-sunday-newspaper-strip",
+      "cat": "comics-webtoon",
+      "ko": "일요 신문 만화 (펜 & 수채 코믹스트립)",
+      "en": "Classic Sunday Newspaper Strip",
+      "era": "20세기 고전 신문 연재만화",
+      "tags": [
+        "2D",
+        "만화/애니",
+        "전통회화"
+      ],
+      "desc": "캘빈과 홉스(빌 워터슨)처럼 생동감 넘치는 세필 붓펜 잉크선과 서정적인 투명 수채 채색이 빛나는 명작 코믹 화풍",
+      "prompt_en": "Classic Sunday newspaper comic strip art in the style of Bill Watterson's Calvin and Hobbes, expressive lively sable-brush black ink linework paired with luminous transparent watercolor sky washes",
+      "prompt_ko": "빌 워터슨(캘빈과 홉스) 스타일의 클래식 일요 신문 컬러 만화 화풍, 표정이 살아있는 경쾌한 붓펜 잉크선과 맑은 수채화 노을 채색"
+    },
+    {
+      "id": "075-indie-zine-doodle",
+      "cat": "comics-webtoon",
+      "ko": "인디 진(Zine) 빽빽한 두들 일러스트",
+      "en": "Dense Indie Doodle Line Art",
+      "era": "현대 인디 아티스트·두들 아트",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "화면 구석구석을 유머러스하고 자잘한 손그림 디테일과 자유로운 워블(Wobbly) 펜선, 제한된 포인트 컬러로 채운 두들 화풍",
+      "prompt_en": "Playful dense indie zine doodle illustration, hand-drawn wobbly black fineliner ink lines packed with charming quirky tiny details, selective pop of warm yellow and coral accents on off-white paper",
+      "prompt_ko": "인디 아트북·진(Zine) 감성의 두들(Doodle) 일러스트, 자유분방하고 아기자기한 검은 펜선 디테일과 감각적인 옐로우·코랄 부분 포인트 채색"
+    },
+    {
+      "id": "076-diecut-vinyl-sticker",
+      "cat": "comics-webtoon",
+      "ko": "화이트보더 다이컷 스티커 일러스트",
+      "en": "Die-Cut Glossy Vinyl Sticker",
+      "era": "굿즈·다꾸·메신저 그래픽",
+      "tags": [
+        "2D",
+        "벡터/그래픽",
+        "만화/애니"
+      ],
+      "desc": "두꺼운 흰색 칼선 테두리(Die-cut border)와 살짝 들뜬 종이 그림자, 쨍하고 반짝이는 바이닐 코팅 스티커 디자인",
+      "prompt_en": "Cute glossy die-cut vinyl sticker illustration with a thick crisp white kiss-cut border and soft peel shadow on a subtle kraft surface, bold outlines and vibrant cheerful colors",
+      "prompt_ko": "도톰하고 깔끔한 흰색 칼선 테두리(화이트 보더)와 은은한 바닥 그림자, 유광 바이닐 코팅 질감이 살아있는 다이컷 스티커 일러스트"
+    },
+    {
+      "id": "077-ghibli-handpainted",
+      "cat": "anime-studio",
+      "ko": "지브리풍 포스터컬러 수채 배경 애니",
+      "en": "Lush Hand-Painted Ghibli Anime",
+      "era": "일본 극장판 셀/수채 애니메이션",
+      "tags": [
+        "2D",
+        "만화/애니",
+        "전통회화"
+      ],
+      "desc": "오가 카즈오·스튜디오 지브리처럼 니커 포스터컬러(불투명 수채)로 손수 그려낸 풍성한 구름과 풀잎, 따뜻한 향수의 세계",
+      "prompt_en": "Hand-painted Japanese theatrical anime background art in the style of Studio Ghibli and Kazuo Oga, lush poster-color gouache brushstrokes, towering sunlit cumulus clouds, cozy European-inspired seaside town warmth",
+      "prompt_ko": "스튜디오 지브리 및 오가 카즈오풍 극장판 애니메이션 수제 배경 작화, 포스터컬러 특유의 풍성하고 포근한 구름·풀잎 붓터치와 서정적인 노을빛"
+    },
+    {
+      "id": "078-shinkai-hyper-sky",
+      "cat": "anime-studio",
+      "ko": "신카이 마코토풍 초정밀 빛·하늘 작화",
+      "en": "Hyper-Luminous Twilight Anime Sky",
+      "era": "2010~2020년대 디지털 극장판 애니",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "현실보다 더 눈부신 매직아워 하늘빛, 렌즈 플레어, 수면의 크리스탈 반사광과 아련한 역광 실루엣의 극장판 디지털 작화",
+      "prompt_en": "Breathtaking modern Japanese theatrical anime art in the style of Makoto Shinkai, hyper-detailed magic-hour twilight sky with glowing violet and amber clouds, dazzling lens flare, sparkling water reflections",
+      "prompt_ko": "신카이 마코토 감독풍 초정밀 디지털 애니메이션 작화, 압도적인 매직아워 보랏빛·황금빛 적란운 하늘과 눈부신 렌즈 플레어, 반짝이는 수면"
+    },
+    {
+      "id": "079-90s-retro-cel-anime",
+      "cat": "anime-studio",
+      "ko": "1990년대 셀 애니메이션 필름 감성",
+      "en": "1990s Retro Hand-Painted Cel Anime",
+      "era": "1990년대 TV/극장판 셀화",
+      "tags": [
+        "2D",
+        "만화/애니",
+        "레트로/판화"
+      ],
+      "desc": "아세테이트 투명 셀에 물감으로 칠한 또렷한 2단 셀 음영, 살짝 번지는 광학 필름 할레이션(Halation)과 아련한 90년대 감성",
+      "prompt_en": "Authentic 1990s Japanese cel animation frame, hand-inked acetate cel lines, classic two-tone cel shading, nostalgic warm 35mm optical film grain and subtle highlight halation glow",
+      "prompt_ko": "1990년대 일본 셀 애니메이션 오리지널 필름 감성, 아세테이트 셀 특유의 단정한 2단 음영과 따뜻한 35mm 필름 그레인, 은은한 빛 번짐"
+    },
+    {
+      "id": "080-80s-ova-dense-anime",
+      "cat": "anime-studio",
+      "ko": "1980년대 고밀도 극장판 OVA 작화",
+      "en": "1980s High-Detail OVA Cel Anime",
+      "era": "1980년대 후반 하이엔드 OVA",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "버블 경제기 일본 극장판 OVA처럼 전선·타일·창문 하나까지 집요하게 그려 넣은 초고밀도 작화와 묵직한 무드",
+      "prompt_en": "Late-1980s high-budget Japanese OVA theatrical anime art, ultra-dense obsessive architectural line detail, rich atmospheric twilight cel painting, dramatic cinematic framing",
+      "prompt_ko": "1980년대 후반 고예산 일본 극장판 OVA 애니메이션 작화, 건물 타일과 창틀 하나까지 집요하게 묘사한 초고밀도 수작업 디테일과 깊은 색감"
+    },
+    {
+      "id": "081-citypop-80s-illustration",
+      "cat": "anime-studio",
+      "ko": "80년대 시티팝 · 나가이 히로시풍",
+      "en": "1980s Japanese City-Pop Coastal Art",
+      "era": "1980년대 일본 시티팝 커버",
+      "tags": [
+        "2D",
+        "전통회화",
+        "레트로/판화"
+      ],
+      "desc": "나가이 히로시·스즈키 에이진처럼 티끌 하나 없이 맑고 선명한 아크릴 황혼 그라데이션과 날렵한 그림자의 여름 해변 감성",
+      "prompt_en": "1980s Japanese City Pop album cover acrylic illustration in the style of Hiroshi Nagai, ultra-crisp cloudless magenta-to-cobalt sunset gradient, razor-sharp crisp shadows, nostalgic breezy summer resort vibe",
+      "prompt_ko": "나가이 히로시 스타일의 1980년대 시티팝 앨범 커버 일러스트, 티끌 없이 매끈한 코발트·마젠타 노을 그라데이션과 면도날처럼 선명한 그림자"
+    },
+    {
+      "id": "082-spiderverse-halftone-hybrid",
+      "cat": "anime-studio",
+      "ko": "코믹북 2.5D 하이브리드 애니메이션",
+      "en": "Comic-Hybrid 2.5D Halftone Anim",
+      "era": "현대 극장판 하이브리드 3D/2D",
+      "tags": [
+        "3D",
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "스파이더버스처럼 입체적인 3D 공간 조명 위에 수작업 잉크 해칭선, 벤데이 망점, 미세한 색수차(오프셋)를 결합한 혁신적 화풍",
+      "prompt_en": "Stylized 2.5D comic-book animation art in the style of Spider-Verse, 3D volumetric lighting fused with hand-drawn ink hatching strokes, halftone dot highlights, expressive comic brush accents",
+      "prompt_ko": "스파이더버스풍 2.5D 하이브리드 코믹 애니메이션 화풍, 입체적인 3D 라이팅 위에 수작업 잉크 해칭선과 하프톤 망점 질감을 결합한 스타일"
+    },
+    {
+      "id": "083-arcane-painterly-3d",
+      "cat": "anime-studio",
+      "ko": "페인터리 3D (유화 질감 시네마틱 애니)",
+      "en": "Painterly Brushstroke 3D Animation",
+      "era": "현대 하이엔드 시리즈 애니메이션",
+      "tags": [
+        "3D",
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "포티셰(아케인) 스타일처럼 모든 3D 모델링 표면과 그림자 경계를 아티스트가 직접 각진 유화 브러시로 덧칠한 듯한 중후한 미학",
+      "prompt_en": "Stylized painterly 3D animation frame in the style of Fortiche Arcane, rich hand-painted angular oil-brush textures mapped onto dramatic 3D forms, cinematic moody rim light and atmospheric haze",
+      "prompt_ko": "아케인(포티셰 스튜디오)풍 페인터리 3D 시네마틱 화풍, 입체적인 3D 조형 표면을 감각적인 각진 유화 브러시 터치로 칠한 듯한 극적인 질감"
+    },
+    {
+      "id": "084-celtic-tapestry-2d",
+      "cat": "anime-studio",
+      "ko": "켈틱 기하학 동화 2D 애니메이션",
+      "en": "Tapestry Folk 2D Animation",
+      "era": "유럽 인디 극장판 애니메이션",
+      "tags": [
+        "2D",
+        "만화/애니",
+        "전통회화"
+      ],
+      "desc": "카툰 살룬(바다의 노래)처럼 원근을 평면적인 동심원·소용돌이 기하 문양과 수채화 텍스처로 직조해낸 신화적 2D 화풍",
+      "prompt_en": "2D hand-drawn folk animation art in the style of Cartoon Saloon's Song of the Sea, flat tapestry-like composition, lyrical concentric spiral patterns in clouds and waves, glowing watercolor textures",
+      "prompt_ko": "카툰 살룬(바다의 노래) 스타일의 유럽 2D 동화 애니메이션 화풍, 태피스트리처럼 평면적인 구도와 소용돌이 기하 문양 구름·파도, 수채 질감"
+    },
+    {
+      "id": "085-silhouette-shadow-theatre",
+      "cat": "anime-studio",
+      "ko": "레이저컷 실루엣 그림자극 애니메이션",
+      "en": "Cutout Silhouette Shadow Theatre",
+      "era": "로테 라이니거~현대 실루엣 아트",
+      "tags": [
+        "2D",
+        "만화/애니",
+        "수작업/공예"
+      ],
+      "desc": "레이스처럼 정교하게 오려낸 칠흑색 종이 실루엣 뒤에서 황금색·보라색 백라이트가 겹겹이 빛나는 환상적인 그림자극",
+      "prompt_en": "Enchanting silhouette cutout animation art in the style of Lotte Reiniger and Michel Ocelot, intricate filigree black paper silhouettes layered against a glowing luminous amber and violet backlit glass sky",
+      "prompt_ko": "로테 라이니거·미셸 오슬로풍 실루엣 그림자극 애니메이션, 레이스처럼 정교한 검은 종이 오리기 실루엣과 뒤에서 빛나는 황금·보랏빛 조명"
+    },
+    {
+      "id": "086-rotoscope-indie-anim",
+      "cat": "anime-studio",
+      "ko": "인디 로토스코핑 수채 애니메이션",
+      "en": "Expressive Rotoscope Indie Anim",
+      "era": "아트하우스 인디 애니메이션",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "실사 촬영본의 자연스러운 비례와 빛을 손으로 한 프레임씩 따라 그린 담백한 연필선과 파스텔 톤의 서정적 인디 감성",
+      "prompt_en": "Poetic arthouse rotoscope 2D indie animation still, delicate hand-traced pencil outlines over naturalistic proportions, soft desaturated warm sunset pastel washes",
+      "prompt_ko": "아트하우스 인디 로토스코핑 2D 애니메이션 스틸컷, 실사적인 자연스러운 구도를 한 땀씩 따라 그린 섬세한 연필선과 차분한 파스텔 노을 색감"
+    },
+    {
+      "id": "087-aaa-matte-concept-art",
+      "cat": "game-concept",
+      "ko": "AAA 영화·게임 환경 매트 컨셉아트",
+      "en": "AAA Cinematic Environment Concept",
+      "era": "할리우드·AAA 게임 프리프로덕션",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "압도적인 대기 원근감, 정교한 빛 설계와 감각적인 디지털 브러시 생략이 조화된 블록버스터 월드빌딩 컨셉아트",
+      "prompt_en": "AAA game and film cinematic environment matte painting concept art, sweeping atmospheric depth, god rays piercing sunset clouds, loose painterly digital brushwork with photoreal lighting mastery",
+      "prompt_ko": "할리우드 영화 및 AAA 대작 게임의 시네마틱 배경 매트 컨셉아트, 웅장한 대기 원근감과 구름 사이 빛내림, 숙련된 디지털 브러시 터치"
+    },
+    {
+      "id": "088-stylized-rpg-splash",
+      "cat": "game-concept",
+      "ko": "판타지 RPG 스플래시 디지털 페인팅",
+      "en": "Stylized Fantasy RPG Splash Art",
+      "era": "현대 판타지 게임 일러스트",
+      "tags": [
+        "2D",
+        "만화/애니"
+      ],
+      "desc": "풍부한 색채 채도, 반투명하게 빛나는 마법적 조명감과 매끄럽고 밀도 높은 반실사(Semi-realistic) 게임 아트워크",
+      "prompt_en": "High-fantasy RPG digital splash illustration, semi-realistic lush painterly rendering, vibrant warm lantern glow contrasting cool twilight blue shadows, rich Magical atmosphere",
+      "prompt_ko": "하이 판타지 RPG 게임 공식 일러스트(스플래시 아트) 화풍, 밀도 높은 반실사 디지털 페인팅과 따뜻한 랜턴 불빛·푸른 황혼의 생생한 대비"
+    },
+    {
+      "id": "089-dark-fantasy-grimdark",
+      "cat": "game-concept",
+      "ko": "다크 판타지 · 소울라이크 화풍",
+      "en": "Moody Grimdark Gothic Concept",
+      "era": "다크 판타지 게임·소설 아트",
+      "tags": [
+        "2D",
+        "전통회화"
+      ],
+      "desc": "채도를 낮춘 잿빛 안개, 고풍스럽고 침울한 석조 디테일, 희미하게 타오르는 등불로 완성한 장엄한 다크 판타지 세계관",
+      "prompt_en": "Atmospheric dark fantasy Soulslike oil concept art, weathered ancient coastal stone lighthouse shrouded in eerie silver-gold twilight fog, desaturated moody palette with faint warm lantern embers",
+      "prompt_ko": "소울라이크 감성의 장엄한 다크 판타지 컨셉아트, 잿빛 황혼 안개에 싸인 고풍스러운 석조 등대와 마을, 채도를 억제한 중후한 유화 질감"
+    },
+    {
+      "id": "090-pixel-art-16bit",
+      "cat": "game-concept",
+      "ko": "16비트 도트 픽셀아트",
+      "en": "Crisp 16-Bit Dithered Pixel Art",
+      "era": "1990년대 레트로 콘솔 ~ 현대 인디",
+      "tags": [
+        "2D",
+        "레트로/판화"
+      ],
+      "desc": "제한된 컬러 팔레트와 정교한 수작업 도트 디더링(Dithering) 패턴으로 노을 그라데이션과 물결을 찍어낸 명작 픽셀아트",
+      "prompt_en": "Masterpiece 16-bit SNES era pixel art scene, crisp square pixels, hand-crafted checkerboard dithering sunset sky, limited 32-color palette, charming pixel cat and animated-style harbor tiles",
+      "prompt_ko": "장인이 한 도트씩 찍어 완성한 정통 16비트 픽셀아트, 선명한 사각 도트 외곽선과 체크무늬 디더링(Dithering) 노을 그라데이션"
+    },
+    {
+      "id": "091-hd-2d-diorama-pixel",
+      "cat": "game-concept",
+      "ko": "HD-2D (도트 스프라이트 + 3D 보케 조명)",
+      "en": "HD-2D Tilt-Shift Pixel Diorama",
+      "era": "현대 JRPG 리메이크 미학",
+      "tags": [
+        "3D",
+        "2D"
+      ],
+      "desc": "옥토패스 트래블러처럼 레트로 픽셀 텍스처 지형 위에 최신 언리얼 엔진의 심도(보케), 실시간 수면 반사와 볼류메트릭 빛을 결합",
+      "prompt_en": "Modern HD-2D JRPG visual style like Octopath Traveler, crisp retro pixel-art textures built into a 3D miniature diorama with shallow depth-of-field bokeh, volumetric golden sunbeams and sparkling 3D water",
+      "prompt_ko": "옥토패스 트래블러풍 HD-2D 게임 아트워크, 클래식 도트 픽셀 텍스처로 지어진 입체 디오라마 위에 영롱한 보케 심도와 실시간 3D 빛 반사를 결합"
+    },
+    {
+      "id": "092-isometric-cozy-game",
+      "cat": "game-concept",
+      "ko": "쿼터뷰 코지(Cozy) 타이쿤 게임 아트",
+      "en": "Hand-Painted Isometric Cozy Game",
+      "era": "현대 인디 시뮬레이션 게임",
+      "tags": [
+        "2D",
+        "3D"
+      ],
+      "desc": "힐링 마을 건설 게임처럼 손그림 수채 질감이 살아있는 45도 쿼터뷰 시점과 동글동글하고 정겨운 게임 월드 디자인",
+      "prompt_en": "Cozy indie town-builder game art in hand-painted isometric top-down view, charming chunky stylized buildings, warm glowing cafe windows, stylized sparkling water tiles",
+      "prompt_ko": "힐링 마을 꾸미기 인디 게임 감성의 쿼터뷰(아이소메트릭) 핸드페인팅 아트, 아기자기한 비례의 건물과 따스하게 불 켜진 창문"
+    },
+    {
+      "id": "093-voxel-3d-art",
+      "cat": "game-concept",
+      "ko": "복셀(Voxel) 3D 큐브 디오라마",
+      "en": "MagicaVoxel GI 3D Cube Art",
+      "era": "현대 3D 복셀 아트",
+      "tags": [
+        "3D"
+      ],
+      "desc": "마지카복셀(MagicaVoxel)처럼 아주 작은 입체 정육면체 블록들을 레고처럼 촘촘히 쌓고 부드러운 글로벌 일루미네이션 빛을 쏜 3D 화풍",
+      "prompt_en": "Detailed 3D voxel diorama rendered in MagicaVoxel with path-traced global illumination, built entirely from tiny 3D cubic blocks, glowing emissive lantern cubes and translucent water voxels",
+      "prompt_ko": "마지카복셀(MagicaVoxel) 스타일의 3D 복셀 디오라마, 작은 정육면체 큐브 블록들로 정교하게 쌓아 올리고 부드러운 광선추적 조명을 입힌 화풍"
+    },
+    {
+      "id": "094-low-poly-stylized",
+      "cat": "game-concept",
+      "ko": "로우폴리 패싯(Low-Poly) 3D 월드",
+      "en": "Crisp Flat-Shaded Low-Poly 3D",
+      "era": "인디 어드벤처 3D 디자인",
+      "tags": [
+        "3D"
+      ],
+      "desc": "매끄러운 곡면 대신 종이접기처럼 또렷하게 각진 삼각형 폴리곤 면(Facet)들과 세련된 파스텔 라이팅으로 빚어낸 감각적 3D",
+      "prompt_en": "Stylized geometric low-poly 3D art in the style of Monument Valley and Journey, crisp flat-shaded triangular polygon facets, minimalist clean topology, warm golden-hour gradient lighting",
+      "prompt_ko": "모뉴먼트 밸리 감성의 깔끔한 로우폴리(Low-Poly) 3D 아트, 매끄럽지 않고 각진 삼각형 폴리곤 단면들이 빛을 받아 보석처럼 나뉘는 조형미"
+    },
+    {
+      "id": "095-cyberpunk-neon-noir",
+      "cat": "game-concept",
+      "ko": "사이버펑크 네온 느와르",
+      "en": "Rain-Slicked Cyberpunk Neon",
+      "era": "SF 사이버펑크 세계관",
+      "tags": [
+        "2D",
+        "3D"
+      ],
+      "desc": "비에 젖은 돌길과 수면 위로 강렬한 시안·마젠타 홀로그램 네온 간판과 사이버네틱 등대 불빛이 반사되는 미래 항구",
+      "prompt_en": "Atmospheric Cyberpunk neon-noir illustration, futuristic coastal harbor with holographic cyan and magenta kanji-free neon signs, rain-slicked cobblestones reflecting electric pink and blue lights, cybernetic cat",
+      "prompt_ko": "비에 젖은 미래 항구 마을의 사이버펑크 네온 느와르 화풍, 짙은 황혼 속 시안 블루와 마젠타 핑크 홀로그램 네온 불빛이 돌길과 물결에 반사되는 장면"
+    },
+    {
+      "id": "096-solarpunk-ecofuturism",
+      "cat": "game-concept",
+      "ko": "솔라펑크 에코 퓨처리즘",
+      "en": "Sunlit Solarpunk Eco-Utopia",
+      "era": "친환경 미래 SF 미학",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "아르누보 곡선의 유리 온실 건축, 황금빛 태양광 패널과 풍력 터빈, 풍성한 초록 덩굴식물이 공존하는 밝고 희망찬 미래",
+      "prompt_en": "Luminous Solarpunk eco-futurist illustration, Art-Nouveau curved glass domes, stained-glass solar sails on the lighthouse, lush hanging gardens and vertical greenery bathed in warm golden sunlight",
+      "prompt_ko": "희망차고 푸르른 솔라펑크(Solarpunk) 에코 퓨처리즘 일러스트, 아르누보 곡선 유리 온실과 태양광 풍력 등대, 울창한 정원이 조화된 미래 해안 마을"
+    },
+    {
+      "id": "097-steampunk-brass",
+      "cat": "game-concept",
+      "ko": "스팀펑크 빅토리안 황동 기어",
+      "en": "Victorian Brass Steampunk",
+      "era": "증기기관 대체역사 SF",
+      "tags": [
+        "2D",
+        "3D"
+      ],
+      "desc": "빅토리안 양식 건축에 정교한 황동 태엽 기어, 구리 파이프, 하얀 증기와 하늘에 떠 있는 소형 비행선이 결합된 레트로 퓨처리즘",
+      "prompt_en": "Detailed Victorian Steampunk illustration, ornate brass clockwork gears and copper pipes integrated into the lighthouse, warm Edison filament bulbs, billowing white steam and a tiny dirigible in the sunset sky",
+      "prompt_ko": "빅토리안 스팀펑크 일러스트레이션, 황동 태엽 기어와 구리 배관으로 장식된 증기 등대, 따뜻한 에디슨 전구 불빛과 노을 하늘의 소형 비행선"
+    },
+    {
+      "id": "098-synthwave-outrun",
+      "cat": "game-concept",
+      "ko": "신스웨이브 80s 네온 그리드 (Outrun)",
+      "en": "80s Synthwave Outrun Horizon",
+      "era": "1980년대 레트로 퓨처리즘",
+      "tags": [
+        "2D",
+        "벡터/그래픽"
+      ],
+      "desc": "줄무늬로 갈라진 거대한 네온 오렌지 태양, 보랏빛 밤하늘, 빛나는 마젠타 와이어프레임 격자 수면의 강렬한 80년대 전자음악 미학",
+      "prompt_en": "Retro-futuristic 1980s Synthwave Outrun digital art, giant striped glowing orange-pink sun on the horizon, deep violet starry sky, glowing neon cyan and magenta wireframe grid reflections on the water",
+      "prompt_ko": "1980년대 신스웨이브(아웃런) 레트로 퓨처리즘 아트, 수평선의 줄무늬 형광 태양과 짙은 보랏빛 하늘, 시안·마젠타 네온 와이어프레임 빛 반사"
+    },
+    {
+      "id": "099-pixar-stylized-3d",
+      "cat": "3d-craft",
+      "ko": "극장판 스타일라이즈드 3D 애니메이션",
+      "en": "Feature-Film Stylized 3D Render",
+      "era": "현대 메이저 3D 애니메이션",
+      "tags": [
+        "3D",
+        "만화/애니"
+      ],
+      "desc": "루카(Luca)처럼 따스한 서브서피스 스캐터링(피부·재질 투과광), 매력적으로 과장된 비율, 물리 기반의 풍성한 황금빛 조명",
+      "prompt_en": "Pixar Luca-inspired feature-film stylized 3D animation render, appealing rounded architectural proportions, warm subsurface scattering, soft fluffy 3D cat fur, dreamy Mediterranean golden-hour lighting",
+      "prompt_ko": "픽사 애니메이션(루카) 감성의 극장판 스타일라이즈드 3D 렌더링, 정감 있게 둥글린 건축 조형과 복슬복슬한 털 질감, 따스한 지중해 노을 조명"
+    },
+    {
+      "id": "100-claymation-stopmotion",
+      "cat": "3d-craft",
+      "ko": "클레이메이션 스톱모션 점토 모형",
+      "en": "Hand-Sculpted Claymation Diorama",
+      "era": "아드만·라이카 스톱모션",
+      "tags": [
+        "3D",
+        "수작업/공예"
+      ],
+      "desc": "실제 유토·플라스티신 점토를 손으로 주물러 빚어낸 미세한 지문 자국과 스튜디오 미니어처 세트 조명이 살아있는 스톱모션 화풍",
+      "prompt_en": "Tactile stop-motion Claymation miniature set in the style of Aardman and Laika, sculpted entirely from matte plasticine modeling clay with subtle human thumbprints and tool marks, shallow macro studio lighting",
+      "prompt_ko": "손으로 직접 주물러 빚은 클레이메이션 스톱모션 점토 디오라마, 플라스티신 점토 표면의 미세한 손자국 질감과 아늑한 미니어처 스튜디오 조명"
+    },
+    {
+      "id": "101-needle-felted-wool",
+      "cat": "3d-craft",
+      "ko": "양모 니들펠트 공예 미니어처",
+      "en": "Cozy Needle-Felted Wool Craft",
+      "era": "핸드메이드 섬유 공예",
+      "tags": [
+        "3D",
+        "수작업/공예"
+      ],
+      "desc": "보송보송한 양모 솜을 바늘로 콕콕 찔러 만든 구름·등대·고양이 인형과 햇빛을 머금은 잔털(Halo)이 극도로 포근한 공예 화풍",
+      "prompt_en": "Adorable miniature scene handcrafted entirely from needle-felted merino wool roving, fuzzy tactile wool fibers glowing with warm rim light, fluffy wool clouds, felt lighthouse and tiny felted cat, macro lens",
+      "prompt_ko": "보송보송한 양모 솜으로 바늘 펠팅해 만든 니들펠트 공예 미니어처, 역광을 받아 솜털 하나하나가 따뜻하게 빛나는 극강의 포근함"
+    },
+    {
+      "id": "102-papercut-layered-lightbox",
+      "cat": "3d-craft",
+      "ko": "다층 페이퍼컷 섀도우박스 조명",
+      "en": "Layered Papercut Lightbox Diorama",
+      "era": "현대 페이퍼 아트 공예",
+      "tags": [
+        "3D",
+        "2D",
+        "수작업/공예"
+      ],
+      "desc": "두꺼운 수제 색지 여러 겹을 정교하게 오려 일정 간격으로 띄워 배치하고 뒤에서 따뜻한 LED 간접조명을 비춘 입체 종이 공예",
+      "prompt_en": "3D multi-layered cut-paper shadowbox lightbox diorama, 8 stacked layers of textured cardstock paper with soft depth shadows between layers, warm golden LED backlighting glowing from behind",
+      "prompt_ko": "여러 겹의 도톰한 색지를 정교하게 오려 층층이 띄워 쌓고 뒤에서 따뜻한 간접조명을 비춘 3D 페이퍼컷 라이트박스 디오라마"
+    },
+    {
+      "id": "103-origami-geometric-paper",
+      "cat": "3d-craft",
+      "ko": "오리가미 종이접기 조형 월드",
+      "en": "Crisp Folded Washi Origami Scene",
+      "era": "페이퍼 크래프트 조형",
+      "tags": [
+        "3D",
+        "수작업/공예"
+      ],
+      "desc": "가위질 없이 고운 화지·색종이를 날카로운 주름(Crease)으로 접어서 완성한 등대, 종이배, 종이 고양이와 물결의 정갈한 미니어처",
+      "prompt_en": "Miniature tabletop world crafted entirely from crisp folded origami textured washi paper, sharp paper creases, origami sailboat on pleated paper waves, folded origami cat and lighthouse in warm studio light",
+      "prompt_ko": "결이 살아있는 색종이를 정교하게 접어 완성한 오리가미(종이접기) 미니어처 월드, 칼같이 접힌 종이 모서리와 주름진 종이 파도 위 종이배"
+    },
+    {
+      "id": "104-designer-vinyl-blindbox",
+      "cat": "3d-craft",
+      "ko": "디자이너 아트토이 · 블라인드박스 피규어",
+      "en": "Matte PVC Blind-Box Art Toy",
+      "era": "팝마트·현대 아트토이 컬처",
+      "tags": [
+        "3D"
+      ],
+      "desc": "매끈한 무광 PVC 사출 질감과 반투명 클리어 파츠(구름·물결), 동글동글하고 수집 욕구를 자극하는 블라인드박스 피규어 디오라마",
+      "prompt_en": "Collectible Pop-Mart style designer vinyl blind-box toy diorama, smooth soft-touch matte PVC plastic finish mixed with frosted translucent resin water and clouds, studio product lighting",
+      "prompt_ko": "팝마트 감성의 디자이너 바이닐 아트토이(블라인드박스 피규어) 디오라마, 보드라운 무광 PVC 플라스틱 질감과 반투명 클리어 레진 파츠"
+    },
+    {
+      "id": "105-knitted-amigurumi-yarn",
+      "cat": "3d-craft",
+      "ko": "코바늘 뜨개 · 아미구루미 털실 공예",
+      "en": "Crocheted Amigurumi Yarn World",
+      "era": "핸드메이드 니트·크로셰",
+      "tags": [
+        "3D",
+        "수작업/공예"
+      ],
+      "desc": "코바늘 뜨개질의 올록볼록한 사슬코 패턴이 선명하게 살아있는 두툼한 털실 인형과 뜨개 소품으로 꾸민 미니어처 세상",
+      "prompt_en": "Charming miniature diorama crocheted entirely from chunky colorful cotton and wool yarn, visible amigurumi crochet stitch loops, knitted waves, crocheted cat and lighthouse, cozy macro photography",
+      "prompt_ko": "알록달록하고 도톰한 털실을 코바늘로 한 코씩 떠서 만든 아미구루미 뜨개 공예 디오라마, 선명한 뜨개 사슬코와 포근한 실 보풀 질감"
+    },
+    {
+      "id": "106-ceramic-porcelain-glaze",
+      "cat": "3d-craft",
+      "ko": "청화백자 · 유약 도자기 조형",
+      "en": "Glazed Blue-and-White Porcelain",
+      "era": "전통 도예·현대 세라믹 아트",
+      "tags": [
+        "3D",
+        "수작업/공예",
+        "전통회화"
+      ],
+      "desc": "우유처럼 매끈하고 영롱한 백자 도자기 유약 광택과 미세한 빙렬(균열무늬), 코발트블루·금채 안료로 구워낸 세라믹 미니어처",
+      "prompt_en": "Exquisite sculpted ceramic porcelain diorama with glossy translucent celadon and milk-white crackle glaze, hand-painted cobalt blue underglaze and 24k gold kintsugi-like rim accents",
+      "prompt_ko": "가마에서 구워낸 영롱한 유약 광택의 청화백자 세라믹 도자기 조형, 우유빛 유약과 코발트블루 핸드페인팅, 은은한 황금빛 포인트"
+    },
+    {
+      "id": "107-translucent-glass-iridescent",
+      "cat": "3d-craft",
+      "ko": "블로운 글래스 · 프리즘 유리 조형 3D",
+      "en": "Caustic Blown-Glass & Prism 3D",
+      "era": "현대 3D 모션그래픽·유리공예",
+      "tags": [
+        "3D"
+      ],
+      "desc": "투명하게 세공된 크리스탈 색유리 내부로 석양빛이 굴절되며 바닥에 무지개빛 코스틱(Caustics) 물결무늬를 맺는 초현대적 3D 렌더링",
+      "prompt_en": "Octane 3D render of a miniature scene sculpted from artisan blown crystal anddichroic iridescent glass, realistic refractive light dispersion, rainbow caustics on clean studio surface, golden sunset light",
+      "prompt_ko": "투명한 수제 크리스탈 색유리와 홀로그램 유리로 빚어낸 하이엔드 3D 렌더링, 유리 내부를 통과해 맺히는 영롱한 무지개 굴절광(코스틱스)"
+    },
+    {
+      "id": "108-miniature-diorama-maquette",
+      "cat": "3d-craft",
+      "ko": "수제 정밀 건축·철도 모형 디오라마",
+      "en": "Handcrafted Scale-Model Maquette",
+      "era": "프라모델·디오라마 공예",
+      "tags": [
+        "3D",
+        "수작업/공예"
+      ],
+      "desc": "발사 원목, 모형 파우더 잔디, 투명 에폭시 레진 바닷물과 초소형 무드등 전구로 장인이 정성껏 제작한 1:87 스케일 실물 모형",
+      "prompt_en": "Master-craftsman 1:87 HO-scale physical tabletop diorama maquette, balsa wood, static grass flock, poured clear epoxy resin harbor water, tiny warm grain-of-wheat LED streetlamps, macro tilt photography",
+      "prompt_ko": "장인이 나무·모형 잔디·투명 에폭시 레진 물결과 초소형 전구로 정밀하게 제작한 1:87 스케일 실물 미니어처 디오라마 모형 촬영본"
+    },
+    {
+      "id": "109-35mm-kodak-portra",
+      "cat": "photo-optical",
+      "ko": "35mm 아날로그 필름 (Kodak Portra 400)",
+      "en": "35mm Kodak Portra 400 Film Photo",
+      "era": "아날로그 컬러 네거티브 필름",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "코닥 포트라 400 필름 특유의 부드러운 하이라이트 롤오프, 따뜻하고 자연스러운 골든아워 색감과 고운 할로겐화은 필름 입자",
+      "prompt_en": "Authentic 35mm analog film photograph shot on Leica M6 with Kodak Portra 400 film at golden hour, organic fine film grain, creamy highlight roll-off, natural warm coastal tones, 50mm Summicron lens",
+      "prompt_ko": "라이카 M6와 코닥 포트라 400(Kodak Portra 400) 35mm 컬러 필름으로 촬영한 골든아워 실사 사진, 부드러운 하이라이트 계조와 자연스러운 필름 그레인"
+    },
+    {
+      "id": "110-cinematic-anamorphic",
+      "cat": "photo-optical",
+      "ko": "할리우드 아나모픽 시네마 스틸컷",
+      "en": "Anamorphic Cinema Film Still",
+      "era": "현대 영화 촬영 미학",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "아나모픽 렌즈 특유의 타원형 보케와 수평 플레어, 깊이 있는 틸 앤 오렌지(Teal & Orange) 색보정으로 완성한 극장 영화 스틸",
+      "prompt_en": "Cinematic theatrical movie still shot on ARRI Alexa with vintage Panavision anamorphic lens, subtle horizontal amber lens flare, oval bokeh, rich teal-and-orange DI color grade",
+      "prompt_ko": "아리 알렉사(ARRI)와 아나모픽 시네마 렌즈로 촬영한 영화 스틸컷, 은은한 수평 렌즈 플레어와 타원형 보케, 깊이 있는 틸 앤 오렌지 색보정"
+    },
+    {
+      "id": "111-polaroid-sx70-instant",
+      "cat": "photo-optical",
+      "ko": "폴라로이드 SX-70 인스탄트 필름",
+      "en": "Vintage Polaroid SX-70 Instant",
+      "era": "1970년대~아날로그 즉석사진",
+      "tags": [
+        "사진/필름",
+        "레트로/판화"
+      ],
+      "desc": "특유의 아이코닉한 흰색 폴라로이드 프레임 안에 담긴 몽환적인 크림빛 색 번짐, 비네팅, 아련한 추억의 즉석 인화 질감",
+      "prompt_en": "Authentic vintage Polaroid SX-70 instant film photograph framed inside classic white Polaroid border, dreamy soft focus, nostalgic creamy warm magenta-amber color shift and subtle corner vignette",
+      "prompt_ko": "클래식 흰색 폴라로이드 즉석 필름 프레임 안에 인화된 빈티지 폴라로이드 SX-70 사진, 부드러운 초점과 크리미하고 아련한 색감"
+    },
+    {
+      "id": "112-bw-silver-gelatin",
+      "cat": "photo-optical",
+      "ko": "흑백 실버 젤라틴 암실 파인아트 사진",
+      "en": "Fine-Art B&W Silver Gelatin Print",
+      "era": "안셀 아담스 존 시스템 사진",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "안셀 아담스의 존 시스템처럼 깊고 단단한 순수 블랙부터 빛나는 은빛 구름 하이라이트까지 10단계 계조가 완벽한 흑백 인화",
+      "prompt_en": "Masterpiece fine-art black-and-white large-format photograph in the style of Ansel Adams Zone System, darkroom silver gelatin print, deep rich blacks, luminous dramatic clouds, razor-sharp detail",
+      "prompt_ko": "안셀 아담스 스타일의 대형 카메라 흑백 파인아트 사진(실버 젤라틴 암실 인화), 깊고 묵직한 암부부터 찬란한 구름까지 완벽한 톤 계조"
+    },
+    {
+      "id": "113-tilt-shift-miniature-photo",
+      "cat": "photo-optical",
+      "ko": "틸트시프트(Tilt-Shift) 미니어처 사진",
+      "en": "Tilt-Shift Toy-Town Photography",
+      "era": "특수 광학 렌즈 촬영 기법",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "실제 항구 마을을 높은 곳에서 내려다보며 광학 렌즈 초점면을 기울여 상하단을 흐리게 날림으로써 장난감 마을처럼 보이게 하는 사진",
+      "prompt_en": "High-angle real aerial photograph shot with a 45mm Tilt-Shift lens, extreme selective plane of focus making the real coastal village look like a tiny toy miniature, crisp center, creamy blurred top and bottom, boosted color",
+      "prompt_ko": "높은 앵글에서 틸트시프트(Tilt-Shift) 특수 렌즈로 촬영해 실제 해안 마을이 마치 손바닥만 한 장난감 미니어처처럼 보이는 광학 사진"
+    },
+    {
+      "id": "114-infrared-aerochrome",
+      "cat": "photo-optical",
+      "ko": "코닥 에어로크롬 적외선 컬러 사진",
+      "en": "Kodak Aerochrome Infrared Photo",
+      "era": "특수 적외선 필름 예술사진",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "엽록소가 적외선을 반사해 나뭇잎과 수풀이 모두 초현실적인 산호빛 핑크·진홍색으로 변하고 하늘과 바다는 짙은 코발트로 찍히는 필름",
+      "prompt_en": "Surreal false-color infrared analog photograph shot on Kodak Aerochrome III film, all trees and foliage rendered in vivid crimson pink and coral red against a deep cobalt blue sky and white lighthouse",
+      "prompt_ko": "코닥 에어로크롬(Aerochrome) 적외선 필름 촬영 사진, 초목과 나뭇잎이 초현실적인 산호빛 진홍·핑크색으로 발색되고 하늘은 짙은 코발트로 대비되는 화풍"
+    },
+    {
+      "id": "115-wet-plate-tintype",
+      "cat": "photo-optical",
+      "ko": "1860년대 콜로디온 습판 사진 (Tintype)",
+      "en": "19th-Century Collodion Tintype",
+      "era": "1850~1880년대 초기 사진술",
+      "tags": [
+        "사진/필름",
+        "레트로/판화"
+      ],
+      "desc": "유리·금속판에 유제를 직접 부어 촬영한 초기 습판 사진 특유의 가장자리 화학 얼룩, 얕은 심도, 세월이 내려앉은 세피아 은빛",
+      "prompt_en": "Authentic 1860s wet-plate collodion tintype photograph, antique metallic sepia-silver tones, hand-poured emulsion edge artifacts and chemical vignette, Petzval lens swirling bokeh",
+      "prompt_ko": "1860년대 콜로디온 습판(틴타입) 고사진 스타일, 수제 감광 유제가 흘러내린 가장자리 흔적과 몽환적인 페츠발 렌즈 보케, 고풍스러운 은빛 세피아 톤"
+    },
+    {
+      "id": "116-double-exposure-poetic",
+      "cat": "photo-optical",
+      "ko": "아날로그 다중노출(Double Exposure) 사진",
+      "en": "Poetic Analog Double Exposure",
+      "era": "예술 사진 기법",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "한 컷의 필름에 고양이·등대의 실루엣과 노을 지는 파도·구름 풍경을 겹쳐 노광하여 시적이고 몽환적인 심상을 만드는 사진 기법",
+      "prompt_en": "Artistic in-camera analog film double exposure photograph, silhouette of a cat and coastal lighthouse seamlessly blended internally with glowing golden sunset ocean waves and clouds against clean light sky",
+      "prompt_ko": "필름 한 컷에 두 장면을 겹쳐 찍은 아날로그 다중노출(Double Exposure) 예술 사진, 고양이·등대 실루엣 안으로 노을 파도와 구름이 신비롭게 투영된 구도"
+    },
+    {
+      "id": "117-long-exposure-silky",
+      "cat": "photo-optical",
+      "ko": "ND필터 장노출 파인아트 풍경사진",
+      "en": "Long-Exposure Silky Water Photo",
+      "era": "현대 풍경 사진 기법",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "삼각대와 ND 필터로 수 분간 셔터를 열어 파도는 비단 안개처럼 고요해지고 구름은 드라마틱한 빛의 궤적으로 흐르는 사진",
+      "prompt_en": "Fine-art 3-minute long-exposure seascape photograph using a 10-stop ND filter at blue-and-golden hour, ocean water transformed into ethereal silky mist, dramatic streaking sunset clouds, glowing lighthouse beam",
+      "prompt_ko": "고농도 ND 필터를 장착해 장노출로 촬영한 파인아트 해안 풍경사진, 비단 안개처럼 고요해진 수면과 하늘을 가로지르는 극적인 구름 궤적"
+    },
+    {
+      "id": "118-wes-anderson-symmetrical",
+      "cat": "photo-optical",
+      "ko": "파스텔 대칭 미장센 (웨스 앤더슨풍)",
+      "en": "Symmetrical Pastel Mise-en-Scène",
+      "era": "현대 아트하우스 시네마",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "자 대고 잰 듯 완벽한 정면 수평·좌우 대칭 구도(Deadpan Symmetry)와 파스텔 핑크·민트·머스타드 옐로우의 동화적 영화 미장센",
+      "prompt_en": "Whimsical symmetrical live-action cinema still in the style of Wes Anderson's Grand Budapest Hotel and Asteroid City, deadpan centered composition, pastel rose pink, mint green and mustard yellow palette, crisp 35mm film",
+      "prompt_ko": "웨스 앤더슨 감독 영화 감성의 완벽한 정면 대칭 미장센 스틸컷, 파스텔 핑크·민트·머스타드 옐로우 색감과 연극 무대처럼 정갈한 구도"
+    },
+    {
+      "id": "119-macro-bokeh-crystalline",
+      "cat": "photo-optical",
+      "ko": "초접사 마크로 & 골든 스페큘러 보케",
+      "en": "Extreme Macro & Specular Bokeh",
+      "era": "광학 마크로 사진",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "F1.2 대구경 마크로 렌즈로 전경의 고양이 수염·돌담 이슬방울에 초점을 맞추고 배경의 항구 등불을 커다란 보석 빛망울로 녹여낸 사진",
+      "prompt_en": "Dreamy shallow-depth-of-field close-up photograph with 85mm f/1.2 lens, razor-sharp focus on foreground cat and dewdrop-kissed stone wall while the sunset lighthouse harbor melts into giant creamy golden circular bokeh orbs",
+      "prompt_ko": "대구경 단렌즈(f/1.2)의 얕은 피사계 심도로 전경의 고양이와 돌담을 선명히 담고 배경의 노을 항구 불빛을 커다랗고 영롱한 황금빛 원형 보케로 녹여낸 사진"
+    },
+    {
+      "id": "120-thermal-flir-imaging",
+      "cat": "photo-optical",
+      "ko": "적외선 열화상 (FLIR 스펙트럼 이미징)",
+      "en": "Scientific Thermal FLIR Palette",
+      "era": "과학·센서 광학 이미징",
+      "tags": [
+        "사진/필름"
+      ],
+      "desc": "온도에 따라 차가운 바다·바위는 짙은 남보라색으로, 따뜻한 고양이의 체온과 카페 난로·태양열은 밝은 주황·노랑으로 시각화하는 열화상",
+      "prompt_en": "Scientific Ironbow FLIR thermal infrared camera image of the coastal harbor scene, cool ocean and night air in deep indigo and purple, warm cat body heat, cafe lanterns and lighthouse lamp glowing bright orange yellow and white",
+      "prompt_ko": "과학용 적외선 열화상(FLIR Ironbow) 카메라 이미징 스타일, 차가운 바닷물과 공기는 짙은 남보라색으로, 따뜻한 고양이 체온과 등불은 밝은 오렌지·화이트로 표현"
+    }
+  ]
+}
